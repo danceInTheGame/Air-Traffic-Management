@@ -1,0 +1,9 @@
+black
+flake8
+isort
+pytest
+mypy
+sphinx
+sphinx-rtd-theme
+mkdocs
+pre-commit
