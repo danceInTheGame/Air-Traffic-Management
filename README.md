@@ -69,6 +69,23 @@ Ce dépôt inclut un `requirements.txt` pour installer les outils Python utiles 
 sphinx-build -b html docs/source docs/build
 ```
 
+Déploiement Vercel
+
+Ce projet Flutter n'est pas une application Python native, mais Vercel a détecté `requirements.txt` et s'attendait à un point d'entrée Python. J'ai ajouté un `pyproject.toml` + `main.py` Flask pour servir le build web Flutter depuis `build/web`.
+
+Pour déployer sur Vercel :
+
+1. Générer le build web Flutter :
+
+```bash
+flutter build web
+```
+
+2. Commiter le dossier `build/web` ou déployer via un pipeline qui génère le build avant l'upload.
+
+3. Pousser sur GitHub et laisser Vercel exécuter le server Python.
+
+
 CI / GitHub Actions
 
 Un workflow `CI` est fourni dans `.github/workflows/ci.yml` pour lancer `flutter analyze` et `flutter test` à chaque `push` et `pull_request`.
