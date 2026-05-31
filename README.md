@@ -71,7 +71,7 @@ sphinx-build -b html docs/source docs/build
 
 Déploiement Vercel
 
-Ce projet Flutter n'est pas une application Python native, mais Vercel a détecté `requirements.txt` et s'attendait à un point d'entrée Python. J'ai ajouté un `pyproject.toml` + `main.py` Flask pour servir le build web Flutter depuis `build/web`.
+Ce projet est maintenant configuré pour une livraison statique Flutter web sur Vercel via `vercel.json` et `.vercelignore`.
 
 Pour déployer sur Vercel :
 
@@ -81,9 +81,11 @@ Pour déployer sur Vercel :
 flutter build web
 ```
 
-2. Commiter le dossier `build/web` ou déployer via un pipeline qui génère le build avant l'upload.
+2. Commiter le dossier `build/web` avec les fichiers suivants : `vercel.json`, `.vercelignore`, `README.md`.
 
-3. Pousser sur GitHub et laisser Vercel exécuter le server Python.
+3. Pousser sur GitHub et Vercel déploiera le site statique directement depuis `build/web`.
+
+Le déploiement fonctionnera sans point d'entrée Python sur Vercel, car la configuration force l'usage du builder statique.
 
 
 CI / GitHub Actions

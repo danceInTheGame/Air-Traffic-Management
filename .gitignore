@@ -6,7 +6,8 @@ pubspec.lock
 
 # Build outputs
 build/
-/.dart_tool/
+!build/web/
+!build/web/**
 /.idea/
 .vscode/
 
@@ -64,6 +65,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+!build/web/
+!build/web/**
 /coverage/
 
 # Symbolication related

@@ -1,0 +1,5 @@
+# Only deploy the Flutter web static output and Vercel config
+*
+!build/web/
+!build/web/**
+!vercel.json
