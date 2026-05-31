@@ -1,0 +1,6980 @@
+[
+  {
+    "OACI": "AGAF",
+    "nom": "Aéroport d'Afutara",
+    "ville": "Afutara",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGAR",
+    "nom": "Aéroport d'Ulawa",
+    "ville": "Arona",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGAT",
+    "nom": "Aéroport d'Uru Harbour (Atoifi Airport)",
+    "ville": "Atoifi",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGBA",
+    "nom": "Aéroport de Barakoma",
+    "ville": "Barakoma",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGBT",
+    "nom": "Aéroport de Batuna",
+    "ville": "Batuna",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGEV",
+    "nom": "Aéroport de Geva",
+    "ville": "Geva",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGA",
+    "nom": "Aéroport de Auki",
+    "ville": "Auki",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGB",
+    "nom": "Aéroport de Bellona/Anua",
+    "ville": "Anua",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGC",
+    "nom": "Aéroport de Choiseul Bay",
+    "ville": "Choiseul Bay",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGD",
+    "nom": "Aéroport de Mbambanakira",
+    "ville": "Mbambanakira",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGE",
+    "nom": "Aéroport de Balalae",
+    "ville": "-",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGF",
+    "nom": "Aéroport de Fera",
+    "ville": "Buala",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGG",
+    "nom": "FIR d'Honiara",
+    "ville": "-",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGH",
+    "nom": "Aéroport international de Honiara (anciennement Henderson Field)",
+    "ville": "Honiara",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGI",
+    "nom": "Aéroport de Babanakira",
+    "ville": "-",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGJ",
+    "nom": "Aéroport de Avu Avu",
+    "ville": "-",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGK",
+    "nom": "Aéroport de Kirakira",
+    "ville": "Kirakira",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGL",
+    "nom": "Aéroport de Santa Cruz/Graciosa Bay/Luova",
+    "ville": "-",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGM",
+    "nom": "Aéroport de Munda",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGN",
+    "nom": "Aéroport de Nusatupe",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGO",
+    "nom": "Aéroport de Mono",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGP",
+    "nom": "Aéroport de Marau du Sud",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGQ",
+    "nom": "Aéroport d'Otong Java",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGR",
+    "nom": "Aéroport de Rennell/Tingoa",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGS",
+    "nom": "Aéroport de Seghe",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGT",
+    "nom": "Aéroport de Santa Anna",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGU",
+    "nom": "Aéroport de Marau",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGV",
+    "nom": "Aéroport de Suavanao",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGGY",
+    "nom": "Aéroport de Yandina",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGIN",
+    "nom": "Héliport d'Isuna",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGKG",
+    "nom": "Aéroport de Kaghau",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGKU",
+    "nom": "Aéroport de Kukudu",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGLM",
+    "nom": "Aéroport de Lomlom",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGOK",
+    "nom": "Aérodrome de Gatokae",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGRC",
+    "nom": "Aéroport de Ringi Cove",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGRM",
+    "nom": "Aéroport de Ramata",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "AGTI",
+    "nom": "Héliport de Tulaghi",
+    "ville": "",
+    "Pays": "Îles Salomon"
+  },
+  {
+    "OACI": "ANAU",
+    "nom": "",
+    "ville": "-",
+    "Pays": "République de Nauru"
+  },
+  {
+    "OACI": "ANYN",
+    "nom": "1 (30L/12R)",
+    "ville": "-",
+    "Pays": "République de Nauru"
+  },
+  {
+    "OACI": "CYGR",
+    "nom": "Aéroport des Îles-de-la-Madeleine (Québec)",
+    "ville": "",
+    "Pays": "Unknown"
+  },
+  {
+    "OACI": "CYBC",
+    "nom": "Aéroport de Baie-Comeau",
+    "ville": "(Québec)\nCYBG (YBG)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYBG",
+    "nom": "Aéroport de Bagotville",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYBK",
+    "nom": "Aéroport de Baker Lake",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYCS",
+    "nom": "Aéroport de Chesterfield Inlet",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYDA",
+    "nom": "Aéroport de Dawson City",
+    "ville": "(Yukon)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYEG",
+    "nom": "Aéroport international d'Edmonton",
+    "ville": "(Alberta)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYEY",
+    "nom": "Aéroport d'Amos-Magny",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYFB",
+    "nom": "Aéroport d'Iqaluit",
+    "ville": "Iqaluit",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYFC",
+    "nom": "Aéroport international de Fredericton",
+    "ville": "(Nouveau-Brunswick)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYFJ",
+    "nom": "Aéroport international de Mont-Tremblant",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYGL",
+    "nom": "Aéroport de Radisson Grande-Rivière",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYGP",
+    "nom": "Aéroport Michel Pouliot de Gaspé",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYHU",
+    "nom": "Aéroport de Saint-Hubert",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYHZ",
+    "nom": "Aéroport international Stanfield d'Halifax",
+    "ville": "(Nouveau-Brunswick)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYJN",
+    "nom": "Aéroport de Saint-Jean-sur-Richelieu",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYKZ",
+    "nom": "Aéroport municipal de Buttonville",
+    "ville": "(Ontario)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYLT",
+    "nom": "Aéroport d'Alert",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYLW",
+    "nom": "Aéroport international de Kelowna",
+    "ville": "(Colombie-Britannique)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYME",
+    "nom": "Aéroport de Matane",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYML",
+    "nom": "Aéroport de Charlevoix",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYMW",
+    "nom": "Aéroport de Maniwaki",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYMX",
+    "nom": "Aéroport international Montréal-Mirabel",
+    "ville": "Montréal (Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYNA",
+    "nom": "Aéroport de Natashquan",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYNC",
+    "nom": "Aéroport de Wemindji",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYND",
+    "nom": "Aéroport exécutif Gatineau-Ottawa",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYNM",
+    "nom": "Aéroport de Matagami",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYOW",
+    "nom": "Aéroport international Macdonald-Cartier d'Ottawa",
+    "ville": "(Ontario)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYPK",
+    "nom": "Aéroport Régional de Pitt Meadows",
+    "ville": "(Colombie-Britannique)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQB",
+    "nom": "Aéroport international Jean-Lesage de Québec",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQM",
+    "nom": "Aéroport international du Grand Moncton",
+    "ville": "(Nouveau-Brunswick)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQR",
+    "nom": "Aéroport international de Régina -(Saskatchewan)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQS",
+    "nom": "Aéroport municipal de St. Thomas -(Ontario)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQT",
+    "nom": "Aéroport international de Thunder Bay -(Ontario)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYQX",
+    "nom": "Aéroport international de Gander-(Terre-Neuve)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYRB",
+    "nom": "Aéroport de Resolute Bay",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYRC",
+    "nom": "Aéroport de Saint-Honoré",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYRI",
+    "nom": "Aéroport de Rivière-du-Loup -(Québec)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYRJ",
+    "nom": "Aéroport de Roberval",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYRQ",
+    "nom": "Aéroport de Trois-Rivières -(Québec)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYSC",
+    "nom": "Aéroport de Sherbrooke",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYSG",
+    "nom": "Aérodrome de Saint-Georges",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYSJ",
+    "nom": "Aéroport de Saint-Jean",
+    "ville": "(Nouveau-Brunswick)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYSK",
+    "nom": "Aéroport de Sanikiluaq",
+    "ville": "(Nunavut",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYSZ",
+    "nom": "Aéroport de Saint-Anne-de-Monts",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYUL",
+    "nom": "Aéroport international Pierre-Elliott-Trudeau de Montréal-(Québec)",
+    "ville": "",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYUY",
+    "nom": "Aéroport de Rouyn-Noranda",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYVB",
+    "nom": "Aéroport de Bonaventure",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYVO",
+    "nom": "Aéroport de Val-d'Or",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYVM",
+    "nom": "Aéroport de Qikiqtarjuaq",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYVR",
+    "nom": "Aéroport international de Vancouver",
+    "ville": "(Colombie-Britannique)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYWG",
+    "nom": "Aéroport international James Armstrong Richardson de Winnipeg",
+    "ville": "(Manitoba)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXE",
+    "nom": "Aéroport international John G. Diefenbaker de Saskatoon",
+    "ville": "(Saskatchewan)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXK",
+    "nom": "Aéroport de Rimouski",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXH",
+    "nom": "Aéroport de Medicine Hat",
+    "ville": "(Alberta)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXN",
+    "nom": "Aéroport de Whale Cove",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXS",
+    "nom": "Aéroport de Prince George",
+    "ville": "(Colombie-Britannique)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXU",
+    "nom": "Aéroport international de London",
+    "ville": "(Ontario)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYXY",
+    "nom": "Aéroport international de Whitehorse",
+    "ville": "(Yukon)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYC",
+    "nom": "Aéroport international de Calgary",
+    "ville": "(Alberta)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYG",
+    "nom": "Aéroport de Charlottetown",
+    "ville": "(Île-du-Prince-Édouard)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYJ",
+    "nom": "Aéroport international de Victoria",
+    "ville": "(Colombie-Britannique)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYT",
+    "nom": "Aéroport international de St. John's",
+    "ville": "(Terre-Neuve-et-Labrador)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYY",
+    "nom": "Aéroport de Mont-Joli",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYYZ",
+    "nom": "Aéroport international Pearson de Toronto",
+    "ville": "(Ontario)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYZD",
+    "nom": "Aéroport de Downsview",
+    "ville": "(Ontario)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYZF",
+    "nom": "Aéroport de Yellowknife",
+    "ville": "(Territoires du Nord-Ouest)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYZS",
+    "nom": "Aéroport de Coral Harbour",
+    "ville": "(Nunavut)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CYZV",
+    "nom": "Aéroport de Sept-Îles",
+    "ville": "(Québec)",
+    "Pays": "CY"
+  },
+  {
+    "OACI": "CZBF",
+    "nom": "Aéroport de Bathurst",
+    "ville": "(NB)\nCZBM (ZBM)",
+    "Pays": "CZ"
+  },
+  {
+    "OACI": "CZBM",
+    "nom": "Aéroport de Bromont",
+    "ville": "(QB)",
+    "Pays": "CZ"
+  },
+  {
+    "OACI": "DAAE",
+    "nom": "Soummam",
+    "ville": "Abane Ramdane",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAG",
+    "nom": "Houari-Boumédiène",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAJ",
+    "nom": "Tiska",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAP",
+    "nom": "Takhamalt, 541 m alt, 1 piste",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAT",
+    "nom": "Aguenar",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAV",
+    "nom": "Ferhat Abbas",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DABB",
+    "nom": "Rabah-Bitat, 3 m alt, 2 pistes",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DABC",
+    "nom": "Mohamed Boudiaf",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAON",
+    "nom": "Zenata",
+    "ville": "Messali El Hadj",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAOO",
+    "nom": "Ahmed Ben Bella",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAUH",
+    "nom": "Oued Irara",
+    "ville": "Krim Belkacem",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAUO",
+    "nom": "Guemar",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAOF",
+    "nom": "Commandant Ferradj",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAOY",
+    "nom": "Kssal",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAOB",
+    "nom": "Abdelhafid Boussouf Bou Chekif",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAAS",
+    "nom": "8 Mai 1945",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAUZ",
+    "nom": "In Amenas",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "DAUB",
+    "nom": "Mohamed Khider",
+    "ville": "",
+    "Pays": "DA Algérie"
+  },
+  {
+    "OACI": "EBAM",
+    "nom": "Aérodrome d'Amougies",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBAR",
+    "nom": "Aérodrome d'Arlon",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBAT",
+    "nom": "Aérodrome d'Ath",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBAV",
+    "nom": "Aérodrome d'Hannut",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBAW",
+    "nom": "Aéroport d'Anvers",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBE",
+    "nom": "Base aérienne de Beauvechain",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBL",
+    "nom": "Base aérienne de Kleine-Brogel",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBN",
+    "nom": "Aérodrome de Büllingen",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBR",
+    "nom": "Aéroport de Bruxelles-National, Zaventem",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBT",
+    "nom": "Aérodrome de Brasschaat",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBX",
+    "nom": "Base aérienne de Bertrix",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBY",
+    "nom": "Aérodrome de Genappe Baisy-Thy",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBBZ",
+    "nom": "Aérodrome de Pont-à-Celles Buzet",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBCF",
+    "nom": "Aérodrome de Cerfontaine, Cerfontaine",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBCI",
+    "nom": "Aéroport de Charleroi Bruxelles-Sud, Charleroi",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBCV",
+    "nom": "Base aérienne de Chièvres",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBDT",
+    "nom": "Aérodrome de Diest",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBFN",
+    "nom": "Base aérienne de Coxyde",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBFR",
+    "nom": "Héliport de Francorchamps",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBFS",
+    "nom": "Base aérienne de Florennes",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBGB",
+    "nom": "Aérodrome de Grimbergen",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBGG",
+    "nom": "Aérodrome de Grammont",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBHN",
+    "nom": "Aérodrome d'Hoevenen",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBKH",
+    "nom": "Aérodrome de Balen",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBKT",
+    "nom": "Aéroport de Courtrai",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLC",
+    "nom": "Héliport de Liège-Citadelle (CHR)",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLO",
+    "nom": "Héliport de Liège-Orban (Bouleverd Frère-Orban)",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLS",
+    "nom": "Héliport de Liège-Sart Tilman (CHU)",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLE",
+    "nom": "Aérodrome de Beverlo",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLG",
+    "nom": "Aéroport de Liège",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBLN",
+    "nom": "Aérodrome de Liernu",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBMB",
+    "nom": "Aéroport militaire Melsbroek, sur le même emplacement que l'aéroport de Bruxelles, à Zaventem",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBMC",
+    "nom": "Héliport de Lodelinsart",
+    "ville": "Hôpital Civil Marie Curie",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBMG",
+    "nom": "Aérodrome de Doische",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBMT",
+    "nom": "Héliport de Montigny-le-Tilleul",
+    "ville": "Hôpital André Vésale",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBMO",
+    "nom": "Aérodrome de Moorsele",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBNA",
+    "nom": "Aérodrome d'Assesse",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBNE",
+    "nom": "Aérodrome de Neerpelt",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBNM",
+    "nom": "Aérodrome de Namur, Temploux-Suarlée",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBOR",
+    "nom": "Aérodrome de Vresse-sur-Semois Orchimont",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBOS",
+    "nom": "Aéroport d'Ostende-Bruges",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBSG",
+    "nom": "Aérodrome de saint-Ghislain",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBSH",
+    "nom": "Aérodrome de Saint-Hubert",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBSL",
+    "nom": "Aérodrome de Zutendaal",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBSP",
+    "nom": "Aérodrome de Spa-La Sauvenière",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBST",
+    "nom": "Base aérienne de Saint-Trond",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBSU",
+    "nom": "Base aérienne de Saint-Hubert",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBTN",
+    "nom": "Aérodrome de Gossoncourt",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBTX",
+    "nom": "Aérodrome de Theux-Verviers",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBTY",
+    "nom": "Aérodrome de Maubray-Tournai",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBUL",
+    "nom": "Base aérienne de Ursel",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBWE",
+    "nom": "Base aérienne de Weelde",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBZH",
+    "nom": "Aérodrome de Hasselt",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBZR",
+    "nom": "Aérodrome d'Oostmalle",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBZU",
+    "nom": "Aérodrome de Zuienkerke",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EBZW",
+    "nom": "Aérodrome de Zwartberg",
+    "ville": "",
+    "Pays": "EB – Belgique"
+  },
+  {
+    "OACI": "EDDC",
+    "nom": "Aéroport de Dresde",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDF",
+    "nom": "Aéroport de Francfort",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDH",
+    "nom": "Aéroport de Hambourg",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDI",
+    "nom": "Aéroport de Berlin-Tempelhof",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDK",
+    "nom": "Aéroport Konrad-Adenauer de Cologne/Bonn",
+    "ville": "Siège de la Lufthansa",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDL",
+    "nom": "Aéroport international de Düsseldorf",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDM",
+    "nom": "Aéroport international Franz-Josef-Strauss de Munich, Munich",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDN",
+    "nom": "Aéroport de Nuremberg",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDR",
+    "nom": "Aéroport de Sarrebruck",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDS",
+    "nom": "Aéroport de Stuttgart",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDT",
+    "nom": "Aéroport de Berlin-Tegel",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDV",
+    "nom": "Aéroport international de Hanovre Langenhagen",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDDW",
+    "nom": "Aéroport de Brême",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDFH",
+    "nom": "Aéroport de Francfort-Hahn",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDFV",
+    "nom": "Aérodrome de Worms",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDGA",
+    "nom": "Aérodrome de Ailertchen",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDHE",
+    "nom": "Aéroport d'Uetersen",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDHI",
+    "nom": "Aéroport de Hambourg-Finkenwerder",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDHO",
+    "nom": "Aérodrome de Ahrenlohe",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDJA",
+    "nom": "Aéroport de Memmingen",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDKA",
+    "nom": "Aéroport d'Aachen-Merzbruck",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDLV",
+    "nom": "Aéroport de Weeze",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDLW",
+    "nom": "Aéroport de Dortmund, Rhénanie du Nord-Westphalie, 129 m alt, 1 piste",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDNX",
+    "nom": "Aérodrome de Schleissheim",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDPA",
+    "nom": "Aérodrome de Aalen-Heidenheim, Elchingen",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDRZ",
+    "nom": "Aéroport de Deux-Ponts",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDSB",
+    "nom": "Aéroport de Karlsruhe Baden-Baden",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDTF",
+    "nom": "Aérodrome de Fribourg",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDTL",
+    "nom": "Aéroport de Lahr",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EDXA",
+    "nom": "Aérodrome de Achmer",
+    "ville": "",
+    "Pays": "ED – Allemagne (aéroports civils)"
+  },
+  {
+    "OACI": "EETN",
+    "nom": "Aéroport international de Tallinn",
+    "ville": "",
+    "Pays": "EE – Estonie"
+  },
+  {
+    "OACI": "EFET",
+    "nom": "Aéroport d'Enontekiö",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFHA",
+    "nom": "Aéroport d'Halli,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFHF",
+    "nom": "Aéroport d'Helsinki-Malmi,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFHK",
+    "nom": "Aéroport d'Helsinki-Vantaa,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFIV",
+    "nom": "Aéroport d'Ivalo,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFJO",
+    "nom": "Aéroport de Joensuu,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFJY",
+    "nom": "Aéroport de Jyväskylä,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFKI",
+    "nom": "Aéroport de Kajaani,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFKS",
+    "nom": "Aéroport de Kuusamo,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFKT",
+    "nom": "Aéroport de Kittilä,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFKU",
+    "nom": "Aéroport de Kuopio,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFMA",
+    "nom": "Aéroport de Mariehamn,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFOU",
+    "nom": "Aéroport d'Oulu,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFPO",
+    "nom": "Aéroport de Pori,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFRO",
+    "nom": "Aéroport de Rovaniemi,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFTP",
+    "nom": "Aéroport de Tampere-Pirkkala,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFTU",
+    "nom": "Aéroport de Turku,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EFVA",
+    "nom": "Aéroport de Vaasa,",
+    "ville": "",
+    "Pays": "EF – Finlande"
+  },
+  {
+    "OACI": "EGAA",
+    "nom": "Aéroport international de Belfast, Irlande du Nord",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGAC",
+    "nom": "George Best Belfast City Airport, Irlande du Nord",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGBB",
+    "nom": "Aéroport international de Birmingham, Angleterre",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGBJ",
+    "nom": "Aéroport de Gloucestershire, Angleterre",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGBP",
+    "nom": "Aéroport de Cotswold",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGCC",
+    "nom": "Aéroport de Manchester",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGFF",
+    "nom": "Aéroport international de Cardiff, Pays de Galles",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGGD",
+    "nom": "Aéroport international de Bristol, Angleterre",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGGP",
+    "nom": "Aéroport de Liverpool John Lennon",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGGW",
+    "nom": "Aéroport de Londres Luton",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGHQ",
+    "nom": "Aéroport de Newquay Cornwall",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGJA",
+    "nom": "Aéroport d'Aurigny",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGJB",
+    "nom": "Aéroport de Guernesey",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGJJ",
+    "nom": "Aéroport de Jersey",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGKB",
+    "nom": "Aéroport de London Biggin Hill",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGKK",
+    "nom": "Aéroport de Londres Gatwick, Angleterre",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGLC",
+    "nom": "Aéroport de Londres City",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGLF",
+    "nom": "Aéroport de Farnborough",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGLL",
+    "nom": "Aéroport de Londres Heathrow",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGMC",
+    "nom": "Aéroport de Londres Southend",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGNJ",
+    "nom": "Aéroport international de Humberside",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGNM",
+    "nom": "Aéroport de Leeds-Bradford",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGNS",
+    "nom": "Aéroport du Ronaldsway",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGNT",
+    "nom": "Aéroport de Newcastle",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGNX",
+    "nom": "Aéroport d'East Midlands, Angleterre",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPB",
+    "nom": "Aéroport de Sumburgh, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPD",
+    "nom": "Aéroport d'Aberdeen (Dyce), Ecosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPE",
+    "nom": "Aéroport d'Inverness, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPF",
+    "nom": "Aéroport international de Glasgow, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPH",
+    "nom": "Aéroport d'Édimbourg, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPK",
+    "nom": "Aéroport international de Glasgow Prestwick, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPN",
+    "nom": "Aéroport de Dundee",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGPR",
+    "nom": "Aéroport de Barra, Écosse",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGSS",
+    "nom": "Aéroport de Londres Stansted",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGTR",
+    "nom": "Aéroport d'Elstree",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EGUC",
+    "nom": "Aéroport d'Aberporth, Pays de Galles",
+    "ville": "",
+    "Pays": "EG – Royaume-Uni"
+  },
+  {
+    "OACI": "EHAL",
+    "nom": "Aéroport d'Ameland",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHAM",
+    "nom": "Aéroport d'Amsterdam-Schiphol",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHBD",
+    "nom": "Aéroport de Kempen",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHBK",
+    "nom": "Aéroport de Maastricht-Aix-la-Chapelle",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHEH",
+    "nom": "Aéroport d'Eindhoven",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHGG",
+    "nom": "Aéroport de Groningue-Eelde",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHRD",
+    "nom": "Aéroport de Rotterdam-La Haye",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHVK",
+    "nom": "Base aérienne Volkel-Uden",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EHWO",
+    "nom": "Base aérienne Woensdrecht",
+    "ville": "",
+    "Pays": "EH – Pays-Bas"
+  },
+  {
+    "OACI": "EICK",
+    "nom": "Aéroport international de Cork",
+    "ville": "",
+    "Pays": "EI – Irlande"
+  },
+  {
+    "OACI": "EICM",
+    "nom": "Aéroport de Galway",
+    "ville": "",
+    "Pays": "EI – Irlande"
+  },
+  {
+    "OACI": "EIDW",
+    "nom": "Aéroport international de Dublin",
+    "ville": "",
+    "Pays": "EI – Irlande"
+  },
+  {
+    "OACI": "EINN",
+    "nom": "Aéroport de Shannon",
+    "ville": "",
+    "Pays": "EI – Irlande"
+  },
+  {
+    "OACI": "EKAE",
+    "nom": "Aérodrome d'Aéro",
+    "ville": "",
+    "Pays": "EK – Danemark"
+  },
+  {
+    "OACI": "EKAH",
+    "nom": "Aéroport d'Arhus",
+    "ville": "",
+    "Pays": "EK – Danemark"
+  },
+  {
+    "OACI": "EKVH",
+    "nom": "Aérodrome d'Aars",
+    "ville": "",
+    "Pays": "EK – Danemark"
+  },
+  {
+    "OACI": "EKYT",
+    "nom": "Aéroport d'Aalborg",
+    "ville": "",
+    "Pays": "EK – Danemark"
+  },
+  {
+    "OACI": "ELEA",
+    "nom": "Héliport du centre hospitalier Émile Mayrisch",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELET",
+    "nom": "Héliport de l'hôpital Saint-Louis",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELLC",
+    "nom": "Héliport du centre hospitalier de Luxembourg",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELLK",
+    "nom": "Héliport de l'hôpital Kirchberg",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELLX",
+    "nom": "Aéroport de Luxembourg-Findel",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELLZ",
+    "nom": "Héliport de la clinique Sainte-Thérèse",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELNT",
+    "nom": "Aérodrome de Noertrange",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELUS",
+    "nom": "Aérodrome d'Useldange",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ELMD",
+    "nom": "Aérodrome de Medernach",
+    "ville": "",
+    "Pays": "EL – Grand-Duché de Luxembourg"
+  },
+  {
+    "OACI": "ENAN",
+    "nom": "aéroport d'Andenes et la Base aérienne d'Andøya.",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENAT",
+    "nom": "Aéroport d'Alta",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENBR",
+    "nom": "Aéroport de Bergen",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENGM",
+    "nom": "Aéroport international d'Oslo-Gardermoen",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENHV",
+    "nom": "Aéroport de Honningsvåg",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENKB",
+    "nom": "Aéroport de Kristiansund",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "ENVA",
+    "nom": "Aéroport de Trondheim Værnes",
+    "ville": "",
+    "Pays": "EN – Norvège"
+  },
+  {
+    "OACI": "EPBY",
+    "nom": "Aéroport Ignacy Jan Paderewski, Bydgoszcz",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPGN",
+    "nom": "Aéroport Lech Walesa de Gdansk, Tricité",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPKK",
+    "nom": "Aéroport Jean-Paul II de Cracovie",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPKT",
+    "nom": "Aéroport de Katowice-Pyrzowice",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPLB",
+    "nom": "Aéroport de Lublin, Swidnik",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPLL",
+    "nom": "Aéroport de Lódz",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPMO",
+    "nom": "Aéroport de Mazovie Varsovie-Modlin",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPPO",
+    "nom": "Aéroport Henryk Wieniawski de Poznan",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPRA",
+    "nom": "Aéroport de Radom",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPSC",
+    "nom": "Aéroport \"Solidarnosc\" de Szczecin",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPSY",
+    "nom": "Aéroport d'Olsztyn-Mazurie, Szczytno",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPWA",
+    "nom": "Aéroport Frédéric Chopin de Varsovie",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPWR",
+    "nom": "Aéroport de Wroclaw-Nicolas Copernic, Wroclaw",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "EPZG",
+    "nom": "Aéroport de Zielona Góra",
+    "ville": "",
+    "Pays": "EP – Pologne"
+  },
+  {
+    "OACI": "ESDF",
+    "nom": "Aéroport de Ronneby,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESGG",
+    "nom": "Aéroport de Göteborg-Landvetter,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESGJ",
+    "nom": "Aéroport de Jönköping,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESGT",
+    "nom": "Aérodrome de Trollhättan–Vänersborg,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESKM",
+    "nom": "Aérodrome de Mora-Siljan,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESKN",
+    "nom": "Aéroport de Stockholm-Skavsta,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESMS",
+    "nom": "Aéroport de Malmö,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESND",
+    "nom": "Aérodrome de Sveg,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNG",
+    "nom": "Aérodrome de Gällivare,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNK",
+    "nom": "Aérodrome de Kramfors-Sollefteå,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNL",
+    "nom": "Aérodrome de Lycksele,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNN",
+    "nom": "Aéroport de Sundsvall-Härnösand,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESMQ",
+    "nom": "Aéroport de Kalmar,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESMT",
+    "nom": "Aérodrome d'Halmstad,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESMX",
+    "nom": "Aérodrome de Växjö,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNO",
+    "nom": "Aéroport d'Örnsköldsvik,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNQ",
+    "nom": "Aéroport de Kiruna,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNS",
+    "nom": "Aéroport de Skellefteå,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNU",
+    "nom": "Aéroport d'Umeå,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNV",
+    "nom": "Aérodrome de Vilhelmina,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNX",
+    "nom": "Aérodrome d'Arvidsjaur,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESNZ",
+    "nom": "Aéroport d'Åre Östersund,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESOH",
+    "nom": "Aérodrome d'Hagfors,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESOK",
+    "nom": "Aérodrome de Karlstad,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESOW",
+    "nom": "Aéroport de Stockholm-Västerås,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESPA",
+    "nom": "Aéroport de Luleå,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSA",
+    "nom": "Aéroport de Stockholm-Arlanda,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSB",
+    "nom": "Aéroport de Stockholm-Bromma,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSD",
+    "nom": "Aéroport de Borlänge,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSL",
+    "nom": "Aéroport de Linköping/Saab,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSP",
+    "nom": "Aéroport de Norrköping,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESST",
+    "nom": "Aérodrome de Torsby,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESSV",
+    "nom": "Aéroport de Visby,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESTA",
+    "nom": "Aéroport d'Ängelholm–Helsingborg,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESUP",
+    "nom": "Aérodrome de Pajala,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ESUT",
+    "nom": "Aérodrome d'Hemavan Tärnaby,",
+    "ville": "",
+    "Pays": "ES – Suède"
+  },
+  {
+    "OACI": "ETNG",
+    "nom": "Geilenkirchen (aéroport militaire OTAN)",
+    "ville": "",
+    "Pays": "ET – Allemagne (aéroports militaires)"
+  },
+  {
+    "OACI": "ETAR",
+    "nom": "Ramstein AFB (aéroport militaire OTAN)",
+    "ville": "",
+    "Pays": "ET – Allemagne (aéroports militaires)"
+  },
+  {
+    "OACI": "ETAD",
+    "nom": "Spangdahlem AFB (aéroport militaire OTAN)",
+    "ville": "",
+    "Pays": "ET – Allemagne (aéroports militaires)"
+  },
+  {
+    "OACI": "ETSB",
+    "nom": "Büchel",
+    "ville": "",
+    "Pays": "ET – Allemagne (aéroports militaires)"
+  },
+  {
+    "OACI": "EVRA",
+    "nom": "Aéroport international de Riga",
+    "ville": "",
+    "Pays": "EV – Lettonie"
+  },
+  {
+    "OACI": "EYKA",
+    "nom": "Aéroport de Kaunas",
+    "ville": "",
+    "Pays": "EY – Lituanie"
+  },
+  {
+    "OACI": "EYPA",
+    "nom": "Aéroport international de Palanga",
+    "ville": "",
+    "Pays": "EY – Lituanie"
+  },
+  {
+    "OACI": "EYVI",
+    "nom": "Aéroport international de Vilnius",
+    "ville": "",
+    "Pays": "EY – Lituanie"
+  },
+  {
+    "OACI": "FABL",
+    "nom": "Aéroport international de Bloemfontein",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FACT",
+    "nom": "Aéroport international du Cap",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FADN",
+    "nom": "Aéroport International de Durban",
+    "ville": "KwaZulu-Natal",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FAGG",
+    "nom": "Aéroport de George",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FAJS",
+    "nom": "Aéroport international  OR Tambo",
+    "ville": "Johannesburg",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FALA",
+    "nom": "Aéroport international de Lanseria",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FALW",
+    "nom": "Base aérienne de Langebaanweg",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FAMD",
+    "nom": "Aéroport de Mala Mala",
+    "ville": "",
+    "Pays": "Afrique du Sud"
+  },
+  {
+    "OACI": "FBSK",
+    "nom": "Aéroport international de Gaborone (Sir Seretse Khama)",
+    "ville": "",
+    "Pays": "Botswana"
+  },
+  {
+    "OACI": "FBMN",
+    "nom": "Aéroport International de Maun",
+    "ville": "",
+    "Pays": "Botswana"
+  },
+  {
+    "OACI": "FCBB",
+    "nom": "Aéroport international Maya-Maya",
+    "ville": "Brazzaville",
+    "Pays": "République du Congo"
+  },
+  {
+    "OACI": "FCPP",
+    "nom": "Aéroport international Antonio-Agostino-Néto",
+    "ville": "Pointe Noire",
+    "Pays": "République du Congo"
+  },
+  {
+    "OACI": "FDMS",
+    "nom": "Aéroport international de Matsapha",
+    "ville": "Manzini",
+    "Pays": "Swaziland"
+  },
+  {
+    "OACI": "FEFF",
+    "nom": "Aéroport international de Bangui M'Poko",
+    "ville": "Bangui",
+    "Pays": "République centrafricaine"
+  },
+  {
+    "OACI": "FGSL",
+    "nom": "Aéroport de Malabo ou aéroport de Santa Isabel",
+    "ville": "Punta Europa",
+    "Pays": "Guinée équatoriale"
+  },
+  {
+    "OACI": "FGBT",
+    "nom": "Aéroport de Bata",
+    "ville": "",
+    "Pays": "Guinée équatoriale"
+  },
+  {
+    "OACI": "FIMP",
+    "nom": "57 m alt",
+    "ville": "1 piste",
+    "Pays": "Ile Maurice"
+  },
+  {
+    "OACI": "FKKD",
+    "nom": "Aéroport international de Douala",
+    "ville": "Douala",
+    "Pays": "Cameroun"
+  },
+  {
+    "OACI": "FKKR",
+    "nom": "Aéroport international de Garoua",
+    "ville": "Garoua",
+    "Pays": "Cameroun"
+  },
+  {
+    "OACI": "FKYS",
+    "nom": "Aéroport international de Yaoundé-Nsimalen",
+    "ville": "Yaoundé",
+    "Pays": "Cameroun"
+  },
+  {
+    "OACI": "FKKY",
+    "nom": "Aéroport de Yaoundé-Ville",
+    "ville": "Yaoundé",
+    "Pays": "Cameroun"
+  },
+  {
+    "OACI": "FLLS",
+    "nom": "Aéroport international de Lusaka",
+    "ville": "Lusaka",
+    "Pays": "Zambie"
+  },
+  {
+    "OACI": "FMCZ",
+    "nom": "Aéroport de Dzaoudzi-Pamandzi",
+    "ville": "Dzaoudzi (976)",
+    "Pays": "Mayotte"
+  },
+  {
+    "OACI": "FMEE",
+    "nom": "Aéroport de La Réunion Roland-Garros",
+    "ville": "Saint-Denis Gillot (974)",
+    "Pays": "Réunion"
+  },
+  {
+    "OACI": "FMEP",
+    "nom": "Aéroport de Pierrefonds",
+    "ville": "Saint-Pierre (974)",
+    "Pays": "Réunion"
+  },
+  {
+    "OACI": "FMMI",
+    "nom": "Aéroport international d'Ivato",
+    "ville": "Antananarivo",
+    "Pays": "Madagascar"
+  },
+  {
+    "OACI": "FMMT",
+    "nom": "Tamatave/Toamasina",
+    "ville": "1 piste",
+    "Pays": "Madagascar"
+  },
+  {
+    "OACI": "FMNN",
+    "nom": "Nosy Be",
+    "ville": "",
+    "Pays": "Madagascar"
+  },
+  {
+    "OACI": "FNMA",
+    "nom": "Aérodrome de Malanje",
+    "ville": "Malanje",
+    "Pays": "Angola"
+  },
+  {
+    "OACI": "FNMO",
+    "nom": "Aérodrome de Namibe",
+    "ville": "Lusaka",
+    "Pays": "Angola"
+  },
+  {
+    "OACI": "FNLU",
+    "nom": "Aéroport Quatro de Fevereiro (4 February Airport)",
+    "ville": "Luanda",
+    "Pays": "Angola"
+  },
+  {
+    "OACI": "FNLA",
+    "nom": "Aérodrome de Soyo",
+    "ville": "Soyo",
+    "Pays": "Angola"
+  },
+  {
+    "OACI": "FOOL",
+    "nom": "Aéroport international Léon-Mba",
+    "ville": "Libreville",
+    "Pays": "Gabon"
+  },
+  {
+    "OACI": "FOON",
+    "nom": "M'Vengue El Hadj Omar Bongo Ondimba",
+    "ville": "Franceville",
+    "Pays": "Gabon"
+  },
+  {
+    "OACI": "FOOG",
+    "nom": "Aéroport international de Port-Gentil",
+    "ville": "Port-Gentil",
+    "Pays": "Gabon"
+  },
+  {
+    "OACI": "FPPR",
+    "nom": "Aérodrome de Principe",
+    "ville": "Santo Antonio (île de Principe)",
+    "Pays": "Sao Tomé-et-Principe"
+  },
+  {
+    "OACI": "FPST",
+    "nom": "Aéroport international de Sao Tomé",
+    "ville": "Sao Tomé (île de Sao Tomé)",
+    "Pays": "Sao Tomé-et-Principe"
+  },
+  {
+    "OACI": "FQMA",
+    "nom": "Aéroport international de Maputo",
+    "ville": "Maputo",
+    "Pays": "Mozambique"
+  },
+  {
+    "OACI": "FSIA",
+    "nom": "Seychelles international Airport",
+    "ville": "Mahé",
+    "Pays": "Seychelles"
+  },
+  {
+    "OACI": "FTTJ",
+    "nom": "Aéroport international de N'Djaména",
+    "ville": "N'Djamena",
+    "Pays": "Tchad"
+  },
+  {
+    "OACI": "FVHA",
+    "nom": "Aéroport international d'Hararé",
+    "ville": "Harare",
+    "Pays": "Zimbabwe"
+  },
+  {
+    "OACI": "FVBU",
+    "nom": "Aéroport international de Joshua Mqabuko Nkomo",
+    "ville": "Bulawayo",
+    "Pays": "Zimbabwe"
+  },
+  {
+    "OACI": "FWCL",
+    "nom": "Aéroport International Chileka",
+    "ville": "Blantyre",
+    "Pays": "Malawi"
+  },
+  {
+    "OACI": "FWKI",
+    "nom": "Aéroport international de Lilongwe",
+    "ville": "Lilongwe",
+    "Pays": "Malawi"
+  },
+  {
+    "OACI": "FXMM",
+    "nom": "Aéroport international de Maseru (Moshoeshoe I)",
+    "ville": "Maseru",
+    "Pays": "Lesotho"
+  },
+  {
+    "OACI": "FYWH",
+    "nom": "Aéroport international Hosea Kutako de Windhoek",
+    "ville": "Windhoek",
+    "Pays": "Namibie"
+  },
+  {
+    "OACI": "FZAA",
+    "nom": "Aéroport international de Ndjili",
+    "ville": "Kinshasa",
+    "Pays": "République démocratique du Congo"
+  },
+  {
+    "OACI": "FZCD",
+    "nom": "Aérodrome de Vanga (Bandundu)",
+    "ville": "",
+    "Pays": "République démocratique du Congo"
+  },
+  {
+    "OACI": "FZIA",
+    "nom": "Aéroport de Simisini",
+    "ville": "Kisangani",
+    "Pays": "République démocratique du Congo"
+  },
+  {
+    "OACI": "FZIC",
+    "nom": "Aéroport international de Bangoka",
+    "ville": "Kisangani",
+    "Pays": "République démocratique du Congo"
+  },
+  {
+    "OACI": "FZNA",
+    "nom": "Aéroport international de Goma",
+    "ville": "",
+    "Pays": "République démocratique du Congo"
+  },
+  {
+    "OACI": "GABD",
+    "nom": "Aéroport de Bandiagara",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GABS",
+    "nom": "Aéroport international Modibo Keïta",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GAGO",
+    "nom": "Aéroport international de Gao Korogoussou",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GATB",
+    "nom": "Aéroport international de Tombouctou",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GAMB",
+    "nom": "Aéroport international de Mopti Ambodédjo",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GAKD",
+    "nom": "Aéroport international de Kayes Dag Dag",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GASK",
+    "nom": "Aéroport international de Sikasso Dignagan",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GANR",
+    "nom": "Aérodrome de Nioro",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GAYE",
+    "nom": "Aérodrome de Yélimané",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GAKA",
+    "nom": "Aérodrome de Kéniéba",
+    "ville": "",
+    "Pays": "GA – Mali"
+  },
+  {
+    "OACI": "GBYD",
+    "nom": "Aéroport international de Banjul",
+    "ville": "",
+    "Pays": "GB – Gambie"
+  },
+  {
+    "OACI": "GCFV",
+    "nom": "Aéroport de Fuerteventura",
+    "ville": "",
+    "Pays": "GC – Îles Canaries"
+  },
+  {
+    "OACI": "GCLP",
+    "nom": "Aéroport de Las Palmas de Gran canaria",
+    "ville": "",
+    "Pays": "GC – Îles Canaries"
+  },
+  {
+    "OACI": "GCRR",
+    "nom": "Aéroport de Lanzarote",
+    "ville": "",
+    "Pays": "GC – Îles Canaries"
+  },
+  {
+    "OACI": "GCXO",
+    "nom": "Aéroport de Tenerife Nord",
+    "ville": "",
+    "Pays": "GC – Îles Canaries"
+  },
+  {
+    "OACI": "GCTS",
+    "nom": "Aéroport de Tenerife Sud",
+    "ville": "",
+    "Pays": "GC – Îles Canaries"
+  },
+  {
+    "OACI": "GFLL",
+    "nom": "Aéroport international de Lungi",
+    "ville": "",
+    "Pays": "GF – Sierra Leone"
+  },
+  {
+    "OACI": "GGOV",
+    "nom": "Aéroport international Osvaldo Vieira de Bissau",
+    "ville": "",
+    "Pays": "GG – Guinée Bissau"
+  },
+  {
+    "OACI": "GLRB",
+    "nom": "Aéroport international Roberts",
+    "ville": "",
+    "Pays": "GL – Libéria"
+  },
+  {
+    "OACI": "GMAA",
+    "nom": "Aéroport d'Agadir-Inezgane",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMAD",
+    "nom": "Aéroport Agadir-Al Massira",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMAZ",
+    "nom": "Aéroport de Zagora",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMFF",
+    "nom": "Aéroport Fès",
+    "ville": "Saïss",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMFK",
+    "nom": "Aéroport Moulay Ali Chérif",
+    "ville": "Errachidia",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMFI",
+    "nom": "Aérodrome d'Ifrane",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMFM",
+    "nom": "Aéroport de Bassatine",
+    "ville": "Meknès",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMFO",
+    "nom": "Aéroport Oujda-Angads",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMB",
+    "nom": "Aéroport de Benslimane",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMD",
+    "nom": "Aéroport de Béni Mellal",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMME",
+    "nom": "Aéroport international Rabat",
+    "ville": "Salé",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMH",
+    "nom": "Aéroport de Dakhla",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMI",
+    "nom": "Aéroport Essaouira",
+    "ville": "Mogador",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMML",
+    "nom": "Aéroport international Laâyoune",
+    "ville": "Hassan 1er",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMN",
+    "nom": "Aéroport Mohammed V de Casablanca",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMT",
+    "nom": "Aéroport Casablanca Tit Mellil",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMW",
+    "nom": "Aéroport de Nador",
+    "ville": "Al Aroui",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMX",
+    "nom": "Aéroport international Marrakech",
+    "ville": "Menara",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMY",
+    "nom": "Aéroport Kénitra",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMMZ",
+    "nom": "Aéroport de Ouarzazate",
+    "ville": "",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMTA",
+    "nom": "Aéroport Al Hoceima",
+    "ville": "Cherif Al Idrissi",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMTN",
+    "nom": "Aéroport Tétouan",
+    "ville": "Sania R'mel",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GMTT",
+    "nom": "Aéroport Tanger",
+    "ville": "Ibn Battouta",
+    "Pays": "GM – Maroc"
+  },
+  {
+    "OACI": "GOBD",
+    "nom": "Aéroport international Blaise Diagne",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOGG",
+    "nom": "Aéroport de Ziguinchor",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOGS",
+    "nom": "Aéroport de Cap Skirring",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOOK",
+    "nom": "Aérodrome de Kaolack",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOOY",
+    "nom": "Aéroport international de Dakar-Léopold Sédar Senghor",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOSS",
+    "nom": "Aéroport de Saint-Louis (Sénégal)",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOTB",
+    "nom": "Aérodrome de Bakel",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GOTT",
+    "nom": "Aérodrome de Tambacounda",
+    "ville": "",
+    "Pays": "GO – Sénégal"
+  },
+  {
+    "OACI": "GQNN",
+    "nom": "Aéroport international de Nouakchott",
+    "ville": "",
+    "Pays": "GQ – Mauritanie"
+  },
+  {
+    "OACI": "GQPA",
+    "nom": "Aéroport international d'Atar",
+    "ville": "",
+    "Pays": "GQ – Mauritanie"
+  },
+  {
+    "OACI": "GQNO",
+    "nom": "Aéroport international de Nouakchott-Oumtounsy",
+    "ville": "",
+    "Pays": "GQ – Mauritanie"
+  },
+  {
+    "OACI": "GUCY",
+    "nom": "Aéroport international de Conakry",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUKR",
+    "nom": "Aérogare de Kamsar",
+    "ville": "Kawas",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUOK",
+    "nom": "Aérogare de Boké",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUFA",
+    "nom": "Aérogare de Friah",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GULB",
+    "nom": "Aérogare de Labé",
+    "ville": "Tata",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUFH",
+    "nom": "Aérogare de Faranah",
+    "ville": "Badala",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUXD",
+    "nom": "Aérogare de Kankan",
+    "ville": "Diankana",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUSI",
+    "nom": "Aérogare de Siguiri",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUKU",
+    "nom": "Aérogare de Kissidougou",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUMA",
+    "nom": "Aérogare de Macenta",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUGO",
+    "nom": "Aérogare de Kérouané",
+    "ville": "Gbenko",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GUNZ",
+    "nom": "Aérogare de N'Zérékoré",
+    "ville": "",
+    "Pays": "GU – Guinée"
+  },
+  {
+    "OACI": "GVNP",
+    "nom": "Aéroport international de Praia",
+    "ville": "",
+    "Pays": "GV – Cap-Vert"
+  },
+  {
+    "OACI": "HAAB",
+    "nom": "Aéroport international de Bole, Addis Ababa",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAAL",
+    "nom": "Aéroport militaire de Lideta",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAAM",
+    "nom": "Aéroport d'Arba Minch, Arba Minch",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAAX",
+    "nom": "Aéroport d'Aksoum, Axum",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HABC",
+    "nom": "Aéroport de Baco, Baco",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HABD",
+    "nom": "Aéroport de Bahir Dar, Bahir Dar",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HABE",
+    "nom": "Aéroport de Beica, Beica",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HABU",
+    "nom": "Aéroport de Bulchi, Bulchi",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HADC",
+    "nom": "Aéroport de Combolcha, Dessie",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HADD",
+    "nom": "Aéroport de Dembidolo, Dembidolo",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HADM",
+    "nom": "Aéroport de Debre Markos, Debre Marqos",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HADR",
+    "nom": "Aéroport international d'Aba Tenna Dejazmach Yilma, Dire Dawa",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HADT",
+    "nom": "Aéroport de Debre Tabor, Debre Tabor",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAFN",
+    "nom": "Aéroport de Fincha, Finicha'a",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAGB",
+    "nom": "Aéroport de Robe, Goba",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAGM",
+    "nom": "Aéroport de Gambela, Gambela",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAGN",
+    "nom": "Aéroport de Gondar, Gondar",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAGO",
+    "nom": "Aéroport de Gode (militaire), Gode",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAGR",
+    "nom": "Aéroport de Gore, Gore",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAHM",
+    "nom": "Harar Meda Airport, Debre Zeyit",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAHU",
+    "nom": "Aéroport de Humera, Humera",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAJM",
+    "nom": "Aba Segud Airport, Jimma",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAKD",
+    "nom": "Aéroport de Kebri Dahar, Kabri Dar",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAKL",
+    "nom": "Aéroport de Kelafo, Kelafo",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HALA",
+    "nom": "Aéroport de Awasa, Awasa",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HALL",
+    "nom": "Aéroport de Lalibela, Lalibela",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAMK",
+    "nom": "Alula Aba Airport, Mék'élé",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAMN",
+    "nom": "Mendi Airport, Mendi",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAMT",
+    "nom": "Aéroport de Mizan Teferi, Mizan Teferi",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HANG",
+    "nom": "Aéroport de Neghele (militaire), Negele Boran",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HANJ",
+    "nom": "Aéroport de Nejjo, Nejo",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HANK",
+    "nom": "Aéroport de Nekemte, Nekemte",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HASO",
+    "nom": "Aéroport d'Asosa, Asosa",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HATP",
+    "nom": "Aéroport de Tippi, Tippi",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HAWC",
+    "nom": "Aéroport de Wacca, Wacca",
+    "ville": "",
+    "Pays": "HA – Éthiopie"
+  },
+  {
+    "OACI": "HBBA",
+    "nom": "Aéroport international de Bujumbura",
+    "ville": "",
+    "Pays": "HB – Burundi"
+  },
+  {
+    "OACI": "HCMM",
+    "nom": "Aéroport international de Mogadiscio",
+    "ville": "",
+    "Pays": "HC – Somalie"
+  },
+  {
+    "OACI": "HDAM",
+    "nom": "Aéroport international Ambouli",
+    "ville": "",
+    "Pays": "HD – Djibouti"
+  },
+  {
+    "OACI": "HEAR",
+    "nom": "Aéroport El-Arish International",
+    "ville": "",
+    "Pays": "HE – Égypte"
+  },
+  {
+    "OACI": "HEBL",
+    "nom": "Aéroport d'Abou Simbel",
+    "ville": "",
+    "Pays": "HE – Égypte"
+  },
+  {
+    "OACI": "HECA",
+    "nom": "Aéroport international du Caire",
+    "ville": "",
+    "Pays": "HE – Égypte"
+  },
+  {
+    "OACI": "HESH",
+    "nom": "Aéroport international de Charm el-Cheikh",
+    "ville": "",
+    "Pays": "HE – Égypte"
+  },
+  {
+    "OACI": "HHAS",
+    "nom": "Aéroport international d'Asmara",
+    "ville": "",
+    "Pays": "HH – Érythrée"
+  },
+  {
+    "OACI": "HKJK",
+    "nom": "Aéroport international Jomo Kenyatta, Nairobi",
+    "ville": "",
+    "Pays": "HK – Kénya"
+  },
+  {
+    "OACI": "HKKI",
+    "nom": "Aéroport de Kisumu",
+    "ville": "",
+    "Pays": "HK – Kénya"
+  },
+  {
+    "OACI": "HKMO",
+    "nom": "Aéroport international Moi, Mombasa",
+    "ville": "",
+    "Pays": "HK – Kénya"
+  },
+  {
+    "OACI": "HLLT",
+    "nom": "Aéroport international de Tripoli",
+    "ville": "",
+    "Pays": "HL – Libye"
+  },
+  {
+    "OACI": "HRYR",
+    "nom": "Aéroport de Kigali",
+    "ville": "",
+    "Pays": "HR – Rwanda"
+  },
+  {
+    "OACI": "HSSS",
+    "nom": "Aéroport international de Khartoum",
+    "ville": "",
+    "Pays": "HS – Soudan"
+  },
+  {
+    "OACI": "HTDA",
+    "nom": "Aéroport international Julius Nyerere",
+    "ville": "",
+    "Pays": "HT – Tanzanie"
+  },
+  {
+    "OACI": "HTKJ",
+    "nom": "Aéroport international du Kilimandjaro",
+    "ville": "",
+    "Pays": "HT – Tanzanie"
+  },
+  {
+    "OACI": "HUEN",
+    "nom": "Aéroport international d'Entebbe",
+    "ville": "",
+    "Pays": "HU – Ouganda"
+  },
+  {
+    "OACI": "LAFK",
+    "nom": "Héliport de Tirana",
+    "ville": "Tirana",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LAGJ",
+    "nom": "Base militaire de Gjadër",
+    "ville": "Gjadër",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LAKO",
+    "nom": "Aéroport de Korçë",
+    "ville": "Korçë",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LAKU",
+    "nom": "Aéroport Cheikh Zayed de Kukës",
+    "ville": "Kukës",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LAKV",
+    "nom": "Base militaire de Kuçovë",
+    "ville": "Kuçovë",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LASK",
+    "nom": "Aéroport de Shkodër",
+    "ville": "Shkodër (Shkodra)",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LASR",
+    "nom": "Aéroport de Sarandë",
+    "ville": "Sarandë (Saranda)",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LAVL",
+    "nom": "Aéroport de Vlorë",
+    "ville": "Vlorë (Vlora)",
+    "Pays": "LA"
+  },
+  {
+    "OACI": "LBBG",
+    "nom": "Aéroport de Bourgas",
+    "ville": "Bourgas",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBBR",
+    "nom": "Base militaire de Ravnetz",
+    "ville": "Ravnetz",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBDB",
+    "nom": "Dolna Bania",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBED",
+    "nom": "Aérodrome d'Erden",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBGO",
+    "nom": "Aéroport de Gorna Oryahovitsa",
+    "ville": "Gorna Oryahovitsa",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBHS",
+    "nom": "Base militaire d'Uzundzhovo",
+    "ville": "Haskovo",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBIA",
+    "nom": "Base militaire de Bezmer",
+    "ville": "Bezmer, Province de Yambol",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBKJ",
+    "nom": "Kyrdjali",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBKK",
+    "nom": "Kazanlyk",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBLS",
+    "nom": "Aéroport de Lesnovo (privé)",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBMG",
+    "nom": "Base militaire de Gabrovnitsa",
+    "ville": "Gabrovnitsa (Gabrovnica)",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBMM",
+    "nom": "aérodrome de Montana",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPD",
+    "nom": "Aéroport international de Plovdiv",
+    "ville": "Plovdiv",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPG",
+    "nom": "Base militaire de Graf Ignatievo",
+    "ville": "Graf Ignatievo / Plovdiv",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPK",
+    "nom": "aérodrome de Pernik",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPL",
+    "nom": "Base militaire de Dolna Mitropolia",
+    "ville": "Dolna Mitropoliia / Pleven",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPR",
+    "nom": "aérodrome de Primorsko (privé)",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBPS",
+    "nom": "Base militaire de Cheshnigirovo",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBRS",
+    "nom": "Aéroport de Roussé",
+    "ville": "Roussé",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBSD",
+    "nom": "Base militaire de Dobroslavtsi",
+    "ville": "Dobroslavtsi (Dobroslavci)",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBSL",
+    "nom": "Base militaire de Sliven",
+    "ville": "Sliven",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBSS",
+    "nom": "Base militaire de Silistra",
+    "ville": "Silistra",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBSZ",
+    "nom": "Aéroport international de Stara Zagora",
+    "ville": "Stara Zagora",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBTG",
+    "nom": "Base militaire de Bukhovtsi",
+    "ville": "Targovishte",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBTV",
+    "nom": "Aérodrome de Voden",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBVD",
+    "nom": "Base militaire de Vidin",
+    "ville": "Vidin",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBWB",
+    "nom": "Base militaire de Baltchik",
+    "ville": "Baltchik",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBWC",
+    "nom": "Héliport de Chaika / Varna",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBWK",
+    "nom": "Kalimanci / Varna",
+    "ville": "",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LBWN",
+    "nom": "Aéroport international de Varna",
+    "ville": "Varna",
+    "Pays": "LB"
+  },
+  {
+    "OACI": "LCPH",
+    "nom": "Aéroport international de Paphos",
+    "ville": "Paphos",
+    "Pays": "LC"
+  },
+  {
+    "OACI": "LCRA",
+    "nom": "Base de la RAF (Royal Air Force) Akrotiri",
+    "ville": "Akrotiri",
+    "Pays": "LC"
+  },
+  {
+    "OACI": "LDDA",
+    "nom": "Daruvar Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDDD",
+    "nom": "Zagreb AFTN Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDDP",
+    "nom": "Ploče Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDDU",
+    "nom": "Aéroport de Dubrovnik",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDLO",
+    "nom": "Lošinj Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDOB",
+    "nom": "Borovo Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDOC",
+    "nom": "Čepin Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDOR",
+    "nom": "Slavonski Brod Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDPL",
+    "nom": "Aéroport de Pula",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDPM",
+    "nom": "Medulin Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDPN",
+    "nom": "Unije Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDPV",
+    "nom": "Vrsar Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDRG",
+    "nom": "Grobničko Polje Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDRI",
+    "nom": "Aéroport de Rijeka",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDRO",
+    "nom": "Otočac Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDSB",
+    "nom": "Aéroport de Brač",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDSH",
+    "nom": "Hvar Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDSP",
+    "nom": "Aéroport de Split",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDSS",
+    "nom": "Sinj Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDVA",
+    "nom": "Varazdin Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDVC",
+    "nom": "Čakovec Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDVK",
+    "nom": "Koprivnica Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDZG",
+    "nom": "Zagreb City Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDZL",
+    "nom": "Zagreb Lučko Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDZO",
+    "nom": "Zagreb ACC Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LDZU",
+    "nom": "Udbina Airport",
+    "ville": "",
+    "Pays": "LD"
+  },
+  {
+    "OACI": "LFAB",
+    "nom": "Aéroport de Dieppe",
+    "ville": "Saint-Aubin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAC",
+    "nom": "Aéroport de Calais",
+    "ville": "Dunkerque",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAD",
+    "nom": "Aérodrome de Compiègne",
+    "ville": "Margny",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAE",
+    "nom": "Aérodrome d'Eu",
+    "ville": "Mers",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAF",
+    "nom": "Aérodrome de Laon",
+    "ville": "Chambry",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAG",
+    "nom": "Aéroport de Peronne",
+    "ville": "Saint-Quentin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAI",
+    "nom": "Aéroport de Nangis Les Loges",
+    "ville": "Nangis (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAJ",
+    "nom": "Aéroport d'Argentan",
+    "ville": "Argentan (Orne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAK",
+    "nom": "Aérodrome de Dunkerque",
+    "ville": "Les Moëres",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAL",
+    "nom": "Aérodrome de La Flèche",
+    "ville": "Thorée-les-Pins",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAM",
+    "nom": "Aéroport de Berck-sur-Mer",
+    "ville": "Berck (Pas-de-Calais)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAN",
+    "nom": "Aérodrome de Condé-sur-Noireau",
+    "ville": "Condé-sur-Noireau (Calvados)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAO",
+    "nom": "Aéroport de Bagnoles-de-l'Orne",
+    "ville": "Couterne",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAP",
+    "nom": "Aérodrome de Rethel",
+    "ville": "Perthes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAQ",
+    "nom": "Aéroport d'Albert-Picardie",
+    "ville": "Albert (Somme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAR",
+    "nom": "Aérodrome de Montdidier",
+    "ville": "Montdidier (Somme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAS",
+    "nom": "Aérodrome de Falaise Mont d'Eraines",
+    "ville": "Falaise (Calvados)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAT",
+    "nom": "Aéroport du Touquet-Paris-Plage",
+    "ville": "Le Touquet-Paris-Plage (Pas-de-Calais)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAU",
+    "nom": "Aérodrome de Vauville",
+    "ville": "Vauville (Manche)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAV",
+    "nom": "Aéroport de Valenciennes",
+    "ville": "Denain",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAW",
+    "nom": "Aérodrome de Villerupt",
+    "ville": "Villerupt (Meurthe-et-Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAX",
+    "nom": "Aéroport de Mortagne-au-Perche",
+    "ville": "Mortagne-au-Perche (Orne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFAY",
+    "nom": "Aéroport d'Amiens",
+    "ville": "Glisy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBA",
+    "nom": "Aéroport Agen-La Garenne",
+    "ville": "Agen (Lot-et-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBC",
+    "nom": "base aérienne de Cazaux",
+    "ville": "La Teste-de-Buch (Gironde)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBD",
+    "nom": "Aéroport de Bordeaux",
+    "ville": "Mérignac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBE",
+    "nom": "Aéroport Bergerac-Roumanière",
+    "ville": "Bergerac (Dordogne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBF",
+    "nom": "Aéroport de Francazal",
+    "ville": "Toulouse (Haute-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBG",
+    "nom": "Base aérienne de Cognac Châteaubernard",
+    "ville": "Cognac (Charente)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBH",
+    "nom": "Aéroport de La Rochelle",
+    "ville": "île de Ré",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBI",
+    "nom": "Aéroport de Poitiers-Biard",
+    "ville": "Poitiers (Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBJ",
+    "nom": "Aéroport de Saint-Junien",
+    "ville": "Saint-Junien (Haute-Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBK",
+    "nom": "Aéroport de Montluçon Guéret",
+    "ville": "Montluçon (Creuse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBL",
+    "nom": "Aéroport de Limoges Bellegarde",
+    "ville": "Limoges (Haute-Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBM",
+    "nom": "Base aérienne 118 Mont-de-Marsan",
+    "ville": "Mont-de-Marsan (Landes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBN",
+    "nom": "Aérodrome de Niort Souché",
+    "ville": "Niort (Deux-Sèvres)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBO",
+    "nom": "Aéroport Toulouse Blagnac",
+    "ville": "Toulouse (Haute-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBP",
+    "nom": "Aéroport Pau-Pyrénées",
+    "ville": "Pau (Pyrénées-Atlantiques)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBR",
+    "nom": "Aérodrome de Muret-Lherm",
+    "ville": "Muret (Haute-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBS",
+    "nom": "Aéroport de Biscarrosse",
+    "ville": "Parentis",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBT",
+    "nom": "Aéroport de Tarbes-Lourdes-Pyrénées",
+    "ville": "Tarbes (Hautes-Pyrénées)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBU",
+    "nom": "Aéroport international Angoulême-Cognac",
+    "ville": "Angoulême (Charente)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBV",
+    "nom": "Aéroport de Brive-Laroche",
+    "ville": "Brive-la-Gaillarde (Corrèze)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBX",
+    "nom": "Aéroport Périgueux-Bassillac",
+    "ville": "Périgueux (Dordogne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBY",
+    "nom": "Aéroport de Dax",
+    "ville": "Seyresse",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFBZ",
+    "nom": "Aéroport de Biarritz-Pays basque",
+    "ville": "Biarritz (Pyrénées-Atlantiques)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCA",
+    "nom": "Aéroport de Châtellerault Targé",
+    "ville": "Châtellerault (Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCB",
+    "nom": "Aéroport de Bagnères-de-Luchon",
+    "ville": "Bagnères-de-Luchon (Haute-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCC",
+    "nom": "Aéroport de Cahors",
+    "ville": "Lalbenque",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCD",
+    "nom": "Aéroport d'Andernos-les-Bains",
+    "ville": "Andernos-les-Bains (Gironde)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCE",
+    "nom": "Aéroport de Guéret",
+    "ville": "Saint-Laurent",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCF",
+    "nom": "Aérodrome de Figeac-Livernon",
+    "ville": "Figeac (Lot)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCG",
+    "nom": "Aérodrome de Saint-Girons",
+    "ville": "Antichan",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCH",
+    "nom": "Aéroport d'Arcachon",
+    "ville": "La Teste-de-Buch",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCI",
+    "nom": "Aérodrome d'Albi",
+    "ville": "Le Séquestre",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCJ",
+    "nom": "Aéroport de Jonzac",
+    "ville": "Neulles",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCK",
+    "nom": "Aéroport de Castres Mazamet",
+    "ville": "Castres (Tarn)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCL",
+    "nom": "Aéroport de Toulouse",
+    "ville": "Lasbordes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCM",
+    "nom": "Aéroport de Millau Larzac",
+    "ville": "Millau (Aveyron)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCN",
+    "nom": "Aéroport de Nogaro",
+    "ville": "Nogaro (Gers)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCO",
+    "nom": "Aéroport d'Oloron",
+    "ville": "Herrère",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCP",
+    "nom": "Aéroport de Pons",
+    "ville": "Avy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCQ",
+    "nom": "Aéroport de Graulhet",
+    "ville": "Montdragon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCR",
+    "nom": "Aéroport de Rodez Marcillac",
+    "ville": "Rodez (Aveyron)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCS",
+    "nom": "Aéroport de Bordeaux",
+    "ville": "Léognan",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCT",
+    "nom": "Aéroport de Thouars",
+    "ville": "Thouars (Deux-Sèvres)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCU",
+    "nom": "Aéroport d'Ussel",
+    "ville": "Thalamy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCV",
+    "nom": "Aéroport de Villefranche-de-Rouergue",
+    "ville": "Villefranche-de-Rouergue (Aveyron)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCW",
+    "nom": "Aéroport de Villeneuve-sur-Lot",
+    "ville": "Villeneuve-sur-Lot (Lot-et-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCX",
+    "nom": "Aéroport de Castelsarrasin",
+    "ville": "Moissac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCY",
+    "nom": "Aérodrome de Royan",
+    "ville": "Médis",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFCZ",
+    "nom": "Aéroport de Mimizan",
+    "ville": "Mimizan (Landes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDA",
+    "nom": "Aéroport d'Aire-sur-l'Adour",
+    "ville": "Aire-sur-l'Adour (Landes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDB",
+    "nom": "Aéroport de Montauban",
+    "ville": "Montauban (Tarn-et-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDC",
+    "nom": "Aéroport de Montendre",
+    "ville": "Marcillac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDE",
+    "nom": "Aéroport d'Égletons",
+    "ville": "Égletons (Corrèze)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDF",
+    "nom": "Aéroport de Sainte-Foy-la-Grande",
+    "ville": "Sainte-Foy-la-Grande (Dordogne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDG",
+    "nom": "Aéroport de Gaillac",
+    "ville": "Lisle -sur-Tarn",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDH",
+    "nom": "Aéroport d'Auch Lamothe",
+    "ville": "Auch (Gers)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDI",
+    "nom": "Aéroport de Libourne",
+    "ville": "Artigues-de-Lussac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDJ",
+    "nom": "Aéroport de Pamiers",
+    "ville": "Les Pujols",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDK",
+    "nom": "Aéroport de Soulac-sur-Mer",
+    "ville": "Soulac-sur-Mer (Gironde)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDL",
+    "nom": "Aéroport de Loudun",
+    "ville": "Loudun (Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDM",
+    "nom": "Aéroport de Marmande",
+    "ville": "Virazeil",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDN",
+    "nom": "Aéroport de Rochefort-Saint-Agnant",
+    "ville": "Rochefort (Charente-Maritime)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDO",
+    "nom": "Aérodrome de Bordeaux",
+    "ville": "Souge",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDP",
+    "nom": "Aéroport de Saint-Pierre-d'Oléron",
+    "ville": "Saint-Pierre-d'Oléron (Charente-Maritime)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDQ",
+    "nom": "Aérodrome de Castelnau Magnoac",
+    "ville": "Castelnau-Magnoac (Hautes-Pyrénées)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDR",
+    "nom": "Aéroport de La Réole",
+    "ville": "Floudès",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDS",
+    "nom": "Aéroport de Sarlat",
+    "ville": "Domme",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDT",
+    "nom": "Aéroport de Tarbes",
+    "ville": "Laloubère",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDU",
+    "nom": "Aéroport de Lesparre",
+    "ville": "Saint-Laurent-de-Médoc",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDV",
+    "nom": "Aéroport de Couhé Vérac",
+    "ville": "Couhé (Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDW",
+    "nom": "Aéroport de Chauvigny",
+    "ville": "Chauvigny (Vienne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDX",
+    "nom": "Aéroport de Fumel",
+    "ville": "Montayral",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFDY",
+    "nom": "Aérodrome de Bordeaux",
+    "ville": "Yvrac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEA",
+    "nom": "Aéroport de Belle-Île",
+    "ville": "Le Palais (Morbihan)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEB",
+    "nom": "Aéroport de Dinan",
+    "ville": "Trélivan",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEC",
+    "nom": "Aéroport d'Ouessant",
+    "ville": "Ouessant (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFED",
+    "nom": "Aéroport de Pontivy",
+    "ville": "Pontivy (Morbihan)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEF",
+    "nom": "Aéroport d'Amboise",
+    "ville": "Dierre",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEG",
+    "nom": "Aéroport d'Argenton-sur-Creuse",
+    "ville": "Argenton-sur-Creuse (Indre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEH",
+    "nom": "Aéroport d'Aubigny-sur-Nère",
+    "ville": "Aubigny-sur-Nère (Cher)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEI",
+    "nom": "Aéroport de Briare Chatillon",
+    "ville": "Briare (Loiret)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEJ",
+    "nom": "Aéroport de Châteauroux",
+    "ville": "Villers",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEK",
+    "nom": "Aéroport d'Issoudun Le Fay",
+    "ville": "Issoudun (Indre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEL",
+    "nom": "Aéroport du Blanc",
+    "ville": "Le Blanc (Indre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEM",
+    "nom": "Aéroport de Montargis",
+    "ville": "Vimory",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEN",
+    "nom": "Aéroport de Tours",
+    "ville": "Sorigny",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEP",
+    "nom": "Aérodrome de Pouilly",
+    "ville": "Maconge",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEQ",
+    "nom": "Aéroport de Quiberon",
+    "ville": "Quiberon (Morbihan)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFER",
+    "nom": "Aéroport de Redon",
+    "ville": "Bains-sur-Oust",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFES",
+    "nom": "Aéroport de Guiscriff",
+    "ville": "Scaër",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFET",
+    "nom": "Aéroport de Til-Châtel",
+    "ville": "Til-Châtel (Côte-d'Or)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEU",
+    "nom": "Aéroport de Bar-le-Duc",
+    "ville": "Les Hauts-de-Chée",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEV",
+    "nom": "Aéroport de Gray Saint-Adrien",
+    "ville": "Gray (Haute-Saône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEW",
+    "nom": "Aéroport de Saulieu",
+    "ville": "Liernais",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEX",
+    "nom": "Aérodrome de Nancy",
+    "ville": "Azelot",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEY",
+    "nom": "Aéroport de l'Île-d'Yeu",
+    "ville": "L'Île-d'Yeu (Vendée)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFEZ",
+    "nom": "Aérodrome de Nancy",
+    "ville": "Malzéville",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFB",
+    "nom": "Aérodrome de Buno-Bonnevaux",
+    "ville": "Buno-Bonnevaux (Essonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFC",
+    "nom": "Aérodrome de Mantes",
+    "ville": "Chérence",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFD",
+    "nom": "Aérodrome de Saint-André-de-l'Eure",
+    "ville": "Saint-André-de-l'Eure (Eure)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFE",
+    "nom": "Aérodrome d'Enghien Moisselles",
+    "ville": "Moisselles (Val-d'Oise)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFG",
+    "nom": "Aérodrome de La Ferté-Gaucher",
+    "ville": "La Ferté-Gaucher (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFH",
+    "nom": "Aérodrome de Château-Thierry",
+    "ville": "Belleau",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFI",
+    "nom": "Aéroport d'Ancenis",
+    "ville": "Ancenis (Loire-Atlantique)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFJ",
+    "nom": "Aérodrome de Joinville",
+    "ville": "Mussey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFK",
+    "nom": "Aéroport de Fontenay-le-Comte",
+    "ville": "Fontenay-le-Comte (Vendée)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFL",
+    "nom": "Aérodrome de Bailleau-Armenonville",
+    "ville": "Bailleau-Armenonville (Eure-et-Loir)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFM",
+    "nom": "Aérodrome de Lamotte-Beuvron",
+    "ville": "Lamotte-Beuvron (Loir-et-Cher)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFN",
+    "nom": "Aéroport de Brienne-le-Château",
+    "ville": "Brienne-le-Château (Aube)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFP",
+    "nom": "Aérodrome de Pithiviers",
+    "ville": "Pithiviers (Loiret)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFQ",
+    "nom": "Aérodrome de La Ferté-Alais",
+    "ville": "La Ferté-Alais (Essonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFR",
+    "nom": "Aérodrome de Bar-sur-Seine",
+    "ville": "Bar-sur-Seine (Aube)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFT",
+    "nom": "Aérodrome de Neufchâteau",
+    "ville": "Neufchâteau (Vosges)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFU",
+    "nom": "Aéroport de Châteauneuf-sur-Cher",
+    "ville": "Châteauneuf-sur-Cher (Cher)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFV",
+    "nom": "Aérodrome de Vierzon",
+    "ville": "Méreau",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFW",
+    "nom": "Aéroport de Montaigu",
+    "ville": "Saint-Georges",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFX",
+    "nom": "Aérodrome de Tournus",
+    "ville": "Cuisery",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFY",
+    "nom": "Aérodrome d'Étrépagny",
+    "ville": "Étrépagny (Eure)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFFZ",
+    "nom": "Aéroport de Sézanne",
+    "ville": "Saint-Remy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGA",
+    "nom": "Aéroport de Colmar",
+    "ville": "Houssen",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGB",
+    "nom": "Aéroport de Mulhouse",
+    "ville": "Habsheim",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGC",
+    "nom": "Aéroport de Strasbourg Neuhof",
+    "ville": "Strasbourg (Bas-Rhin)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGD",
+    "nom": "Aérodrome d'Arbois",
+    "ville": "Arbois (Jura)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGE",
+    "nom": "Aéroport d'Avallon",
+    "ville": "Avallon (Yonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGF",
+    "nom": "Aéroport de Beaune Challanges",
+    "ville": "Beaune (Côte-d'Or)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGG",
+    "nom": "Aéroport de Belfort",
+    "ville": "Chaux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGH",
+    "nom": "Aéroport de Cosne-sur-Loire",
+    "ville": "Cosne-Cours-sur-Loire (Nièvre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGI",
+    "nom": "Aéroport de Dijon",
+    "ville": "Darois",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGJ",
+    "nom": "Aéroport de Dole",
+    "ville": "Tavaux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGK",
+    "nom": "Aéroport de Joigny",
+    "ville": "Joigny (Yonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGL",
+    "nom": "Aéroport de Lons-le-Saunier",
+    "ville": "Courlaoux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGM",
+    "nom": "Aéroport de Montceau-les-Mines",
+    "ville": "Pouilloux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGN",
+    "nom": "Aéroport de Paray-le-Monial",
+    "ville": "Paray-le-Monial (Saône-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGO",
+    "nom": "Aéroport de Pont-sur-Yonne",
+    "ville": "Pont-sur-Yonne (Yonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGP",
+    "nom": "Aéroport de Saint-Florentin",
+    "ville": "Chéu",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGQ",
+    "nom": "Aéroport de Semur-en-Auxois",
+    "ville": "Semur-en-Auxois (Côte-d'Or)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGR",
+    "nom": "Aéroport de Doncourt-lès-Conflans",
+    "ville": "Doncourt-lès-Conflans (Meurthe-et-Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGS",
+    "nom": "Aéroport de Longuyon",
+    "ville": "Villette",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGT",
+    "nom": "Aéroport de Sarrebourg",
+    "ville": "Buhl",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGU",
+    "nom": "Aéroport de Sarreguemines Neunkirch",
+    "ville": "Sarreguemines (Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGV",
+    "nom": "Aéroport de Thionville",
+    "ville": "Yutz",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGW",
+    "nom": "Aérodrome de Verdun Le Rozelier",
+    "ville": "Verdun (Meuse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGX",
+    "nom": "Aérodrome de Champagnole",
+    "ville": "Crotenay",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGY",
+    "nom": "Aérodrome de Saint-Dié",
+    "ville": "Remomeix",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFGZ",
+    "nom": "Aérodrome de Nuits-Saint-Georges",
+    "ville": "Nuits-Saint-Georges (Côte-d'Or)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHA",
+    "nom": "Aéroport d'Issoire",
+    "ville": "Le Broc",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHC",
+    "nom": "Aéroport de Pérouges",
+    "ville": "Meximieux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHD",
+    "nom": "Aéroport de Pierrelatte",
+    "ville": "Pierrelatte (Drôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHE",
+    "nom": "Aéroport de Romans",
+    "ville": "Saint-Paul",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHF",
+    "nom": "Aérodrome de Ruoms",
+    "ville": "Ruoms (Ardèche)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHG",
+    "nom": "Aéroport de Saint-Chamond",
+    "ville": "L'Horme",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHH",
+    "nom": "Aéroport de Vienne Reventin",
+    "ville": "Vienne (Isère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHI",
+    "nom": "Aéroport de Morestel",
+    "ville": "Morestel (Isère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHJ",
+    "nom": "Aérodrome de Lyon",
+    "ville": "Corbas",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHL",
+    "nom": "Aéroport de Langogne",
+    "ville": "Lespéron",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHM",
+    "nom": "Aérodrome de Megève",
+    "ville": "Megève (Haute-Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHN",
+    "nom": "Aéroport de Bellegarde Vouvray",
+    "ville": "Bellegarde-sur-Valserine (Ain)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHO",
+    "nom": "Aéroport d'Aubenas Ardèche méridionale",
+    "ville": "Aubenas (Ardèche)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHP",
+    "nom": "Aéroport du Puy",
+    "ville": "Loudes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHQ",
+    "nom": "Aéroport de Saint-Flour",
+    "ville": "Coltines",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHR",
+    "nom": "Aéroport de Brioude",
+    "ville": "Beaumont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHS",
+    "nom": "Aéroport de Bourg",
+    "ville": "Ceyzériat",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHT",
+    "nom": "Aéroport d'Ambert Le Poyet",
+    "ville": "Ambert (Puy-de-Dôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHU",
+    "nom": "Altiport de l'Alpe d'Huez",
+    "ville": "Huez (Isère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHV",
+    "nom": "Aéroport de Villefranche",
+    "ville": "Tarare",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHW",
+    "nom": "Aérodrome de Belleville",
+    "ville": "Villié-Morgon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHX",
+    "nom": "Aéroport de Lapalisse",
+    "ville": "Périgny",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHY",
+    "nom": "Aéroport de Moulins",
+    "ville": "Montbeugny",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFHZ",
+    "nom": "Aérodrome de Sallanches Mont Blanc",
+    "ville": "Sallanches (Haute-Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIB",
+    "nom": "Aérodrome de Belvès",
+    "ville": "Saint-Pardoux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFID",
+    "nom": "Aéroport de Condom",
+    "ville": "Valence-sur-Baïse",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIF",
+    "nom": "Aérodrome de Saint-Affrique",
+    "ville": "Belmont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIG",
+    "nom": "Aéroport de Cassagnes-Bégonhès",
+    "ville": "Cassagnes-Bégonhès (Aveyron)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIH",
+    "nom": "Aéroport de Chalais",
+    "ville": "Chalais (Charente)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIK",
+    "nom": "Aérodrome de Ribérac",
+    "ville": "Saint-Aulaye",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIL",
+    "nom": "Aérodrome de Rion-des-Landes",
+    "ville": "Rion-des-Landes (Landes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIM",
+    "nom": "Aéroport de Saint-Gaudens",
+    "ville": "Montréjeau",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIP",
+    "nom": "Aérodrome de Peyresourde",
+    "ville": "Balestas",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIR",
+    "nom": "Aérodrome de Revel",
+    "ville": "Montgey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIT",
+    "nom": "Aérodrome de Toulouse",
+    "ville": "Bourg-Saint-Bernard",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIV",
+    "nom": "Aérodrome de Vendays-Montalivet",
+    "ville": "Vendays-Montalivet (Gironde)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIX",
+    "nom": "Aérodrome d'Itxassou",
+    "ville": "Itxassou (Pyrénées-Atlantiques)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFIY",
+    "nom": "Aérodrome de Saint-Jean-d'Angély",
+    "ville": "Saint-Denis-du-Pin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJA",
+    "nom": "base aérienne de Chaumont",
+    "ville": "Semoutiers",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJB",
+    "nom": "Aéroport de Mauleon",
+    "ville": "Mauléon (Deux-Sèvres)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJC",
+    "nom": "Aéroport de Clamecy",
+    "ville": "Clamecy (Nièvre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJD",
+    "nom": "Aérodrome de Corlier",
+    "ville": "Corlier (Ain)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJE",
+    "nom": "Aérodrome de La Motte-Chalancon",
+    "ville": "La Motte-Chalancon (Drôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJF",
+    "nom": "Aérodrome d'Aubenasson",
+    "ville": "Aubenasson (Drôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJH",
+    "nom": "Aérodrome de Cazères",
+    "ville": "Palaminy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJI",
+    "nom": "Aérodrome de Marennes",
+    "ville": "Marennes (Charente-Maritime)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJL",
+    "nom": "Aéroport Metz-Nancy-Lorraine",
+    "ville": "Nancy/Metz (Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJR",
+    "nom": "Aéroport d'Angers",
+    "ville": "Marce",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJS",
+    "nom": "Aéroport de Soissons",
+    "ville": "Courmelles",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJT",
+    "nom": "Aérodrome de Tours",
+    "ville": "Le Louroux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFJU",
+    "nom": "Aérodrome de Lurcy-Levis",
+    "ville": "Lurcy-Lévis (Allier)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKA",
+    "nom": "Aérodrome d'Albertville",
+    "ville": "Albertville (Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKB",
+    "nom": "Aéroport de Bastia Poretta",
+    "ville": "Bastia (Haute-Corse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKC",
+    "nom": "Aéroport de Calvi-Sainte-Catherine",
+    "ville": "Calvi (Haute-Corse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKD",
+    "nom": "Aérodrome de Sollières-Sardières",
+    "ville": "Sollières-Sardières (Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKE",
+    "nom": "Aérodrome de Saint-Jean-en-Royans",
+    "ville": "Saint-Jean-en-Royans (Drôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKF",
+    "nom": "Aéroport de Figari Sud Corse",
+    "ville": "Figari (Corse-du-Sud)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKG",
+    "nom": "Aérodrome de Ghisonaccia Alzitone",
+    "ville": "Ghisonaccia (Haute-Corse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKH",
+    "nom": "Aérodrome de Saint-Jean-d'Avelanne",
+    "ville": "Saint-Jean-d'Avelanne (Isère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKJ",
+    "nom": "Aéroport d'Ajaccio Napoléon Bonaparte",
+    "ville": "Ajaccio (Corse-du-Sud)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKL",
+    "nom": "Aérodrome de Lyon",
+    "ville": "Brindas",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKM",
+    "nom": "Aérodrome de Saint-Galmier",
+    "ville": "Saint-Galmier (Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKO",
+    "nom": "Aéroport de Propriano",
+    "ville": "Propriano (Corse-du-Sud)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKP",
+    "nom": "Aérodrome de La Tour-du-Pin",
+    "ville": "Cessieu",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKR",
+    "nom": "Aérodrome de Saint-Rémy-de-Maurienne",
+    "ville": "Saint-Rémy-de-Maurienne (Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKS",
+    "nom": "Base aérienne de Solenzara",
+    "ville": "Sari-Solenzara (Corse-du-Sud)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKT",
+    "nom": "Aéroport de Corte",
+    "ville": "Corte (Haute-Corse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKX",
+    "nom": "Aérodrome de Méribel",
+    "ville": "Les Allues (Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKY",
+    "nom": "Aérodrome de Belley-Peyrieu",
+    "ville": "Belley (Ain)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFKZ",
+    "nom": "Aérodrome de Saint-Claude",
+    "ville": "Pratz",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLA",
+    "nom": "Aéroport d'Auxerre",
+    "ville": "Branches",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLB",
+    "nom": "Aéroport de Chambéry",
+    "ville": "Savoie",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLC",
+    "nom": "Aéroport de Clermont-Ferrand Auvergne",
+    "ville": "Clermont-Ferrand (Puy-de-Dôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLD",
+    "nom": "Aéroport de Bourges",
+    "ville": "Bourges (Cher)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLE",
+    "nom": "Aéroport de Chambéry",
+    "ville": "Challes-les-Eaux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLG",
+    "nom": "Aérodrome de Grenoble",
+    "ville": "Le Versoud",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLH",
+    "nom": "Aéroport de Chalon",
+    "ville": "Champforgeuil",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLI",
+    "nom": "Aéroport d'Annemasse",
+    "ville": "Annemasse (Haute-Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLJ",
+    "nom": "Aérodrome de Courchevel",
+    "ville": "Saint-Bon-Tarentaise (Savoie)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLK",
+    "nom": "Aéroport d'Oyonnax",
+    "ville": "Arbent",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLL",
+    "nom": "Aéroport Lyon-Saint-Exupéry",
+    "ville": "Lyon (Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLM",
+    "nom": "Aéroport de Mâcon",
+    "ville": "Charnay",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLN",
+    "nom": "Aéroport de Saint-Yan",
+    "ville": "Saint-Yan (Saône-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLO",
+    "nom": "Aéroport de Roanne",
+    "ville": "Renaison",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLP",
+    "nom": "Aéroport d'Annecy",
+    "ville": "Meythet",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLQ",
+    "nom": "Aéroport de Montélimar",
+    "ville": "Ancône",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLR",
+    "nom": "Aéroport de Saint-Rambert-d'Albon",
+    "ville": "Saint-Rambert-d'Albon (Drôme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLS",
+    "nom": "Aéroport International de Grenoble-Isère",
+    "ville": "Grenoble (Isère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLT",
+    "nom": "Aérodrome de Montluçon",
+    "ville": "Domérat",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLU",
+    "nom": "Aéroport de Valence",
+    "ville": "Chabeuil",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLV",
+    "nom": "Aéroport de Vichy",
+    "ville": "Charmeil",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLW",
+    "nom": "Aéroport d'Aurillac",
+    "ville": "Aurillac (Cantal)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLX",
+    "nom": "Aéroport de Châteauroux-Centre",
+    "ville": "Châteauroux (Indre)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLY",
+    "nom": "Aéroport de Lyon-Bron",
+    "ville": "Lyon (Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFLZ",
+    "nom": "Aéroport de Feurs",
+    "ville": "Chambéon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMA",
+    "nom": "Aéroport d'Aix Les Milles",
+    "ville": "Aix-en-Provence (Bouches-du-Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMC",
+    "nom": "Aéroport du Luc",
+    "ville": "Le Cannet",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMD",
+    "nom": "Aéroport de Cannes",
+    "ville": "Mandelieu",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFME",
+    "nom": "Aéroport de Nîmes Courbessac",
+    "ville": "Nîmes (Gard)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMF",
+    "nom": "Aérodrome de Fayence-Tourrettes",
+    "ville": "Fayence (Var)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMG",
+    "nom": "Aérodrome de Montagne Noire",
+    "ville": "Revel (Haute-Garonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMH",
+    "nom": "Aéroport de Saint-Étienne",
+    "ville": "Bouthéon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMI",
+    "nom": "Aéroport d'Istres Le Tube",
+    "ville": "Istres (Bouches-du-Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMK",
+    "nom": "Aéroport de Carcassonne Salvaza",
+    "ville": "Carcassonne (Aude)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFML",
+    "nom": "Aéroport de Marseille Provence",
+    "ville": "Marseille (Bouches-du-Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMN",
+    "nom": "Aéroport de Nice-Côte d'Azur",
+    "ville": "Nice (Alpes-Maritimes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMO",
+    "nom": "base aérienne d'Orange Caritat",
+    "ville": "Orange (Vaucluse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMP",
+    "nom": "Aéroport de Perpignan",
+    "ville": "Rivesaltes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMQ",
+    "nom": "Aéroport du Castellet",
+    "ville": "Le Castellet (Var)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMR",
+    "nom": "Aéroport de Barcelonnette",
+    "ville": "Saint-Pons",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMS",
+    "nom": "Aéroport d'Alès",
+    "ville": "Deaux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMT",
+    "nom": "Aéroport de Montpellier-Méditerranée",
+    "ville": "Montpellier (Hérault)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMU",
+    "nom": "Aéroport de Béziers",
+    "ville": "Cap d'Agde en Languedoc",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMV",
+    "nom": "Aéroport d'Avignon",
+    "ville": "Caumont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMW",
+    "nom": "Aéroport de Castelnaudary",
+    "ville": "Villeneuve",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMX",
+    "nom": "Aéroport de Château-Arnoux-Saint-Auban",
+    "ville": "Château-Arnoux-Saint-Auban (Alpes-de-Haute-Provence)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMY",
+    "nom": "base aérienne de Salon-de-Provence",
+    "ville": "Salon-de-Provence (Bouches-du-Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFMZ",
+    "nom": "Aéroport de Lézignan-Corbières",
+    "ville": "Lézignan-Corbières (Aude)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNA",
+    "nom": "Aérodrome de Gap-Tallard",
+    "ville": "Gap (Hautes-Alpes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNB",
+    "nom": "Aéroport de Mende",
+    "ville": "Brenoux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNC",
+    "nom": "Aéroport de Mont-Dauphin",
+    "ville": "Saint-Crépin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFND",
+    "nom": "Aérodrome de Pont-Saint-Esprit",
+    "ville": "Pont-Saint-Esprit (Vaucluse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNE",
+    "nom": "Aérodrome de Salon",
+    "ville": "Eyguières",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNF",
+    "nom": "Aéroport de Vinon",
+    "ville": "Vinon-sur-Verdon (Var)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNG",
+    "nom": "Aéroport de Montpellier",
+    "ville": "Candillargues",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNH",
+    "nom": "Aérodrome de Carpentras",
+    "ville": "Carpentras (Vaucluse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNJ",
+    "nom": "Aérodrome d'Aspres-sur-Buëch",
+    "ville": "Aspres-sur-Buëch (Hautes-Alpes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNL",
+    "nom": "Aérodrome de Saint-Martin-de-Londres",
+    "ville": "Saint-Martin-de-Londres (Hérault)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNN",
+    "nom": "Aérodrome de Narbonne",
+    "ville": "Narbonne (Aude)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNO",
+    "nom": "Aérodrome de Florac",
+    "ville": "Sainte-Enimie",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNP",
+    "nom": "Aérodrome de Pézenas",
+    "ville": "Nizas",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNQ",
+    "nom": "Aérodrome de Mont Louis La Quillane",
+    "ville": "Mont-Louis (Pyrénées-Orientales)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNR",
+    "nom": "Aérodrome de Berre",
+    "ville": "La Fare",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNS",
+    "nom": "Aérodrome de Sisteron Thèze",
+    "ville": "Sisteron (Alpes-de-Haute-Provence)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNT",
+    "nom": "Aérodrome d'Avignon",
+    "ville": "Pujaut",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNU",
+    "nom": "Aérodrome d'Uzès",
+    "ville": "Uzès (Gard)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNV",
+    "nom": "Aérodrome de Valréas",
+    "ville": "Visan",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNW",
+    "nom": "Aérodrome de Puivert",
+    "ville": "Puivert (Aude)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNX",
+    "nom": "Aérodrome de Bédarieux",
+    "ville": "La Tour-sur-Orb",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFNZ",
+    "nom": "Aérodrome du Mazet de Romanin",
+    "ville": "Saint-Rémy-de-Provence (Bouches-du-Rhône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOA",
+    "nom": "base aérienne d'Avord",
+    "ville": "Avord (Cher)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOB",
+    "nom": "Aéroport de Paris Beauvais Tillé",
+    "ville": "Paris (Oise)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOC",
+    "nom": "Aéroport de Châteaudun",
+    "ville": "Châteaudun (Eure-et-Loir)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOD",
+    "nom": "Aéroport de Saumur Saint-Florent",
+    "ville": "Saumur (Maine-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOE",
+    "nom": "Base aérienne d'Évreux",
+    "ville": "Fauville",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOF",
+    "nom": "Aéroport d'Alençon",
+    "ville": "Valframbert",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOG",
+    "nom": "Aéroport de Flers",
+    "ville": "Saint-Paul",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOH",
+    "nom": "Aéroport du Havre-Octeville",
+    "ville": "Le Havre (Seine-Maritime)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOI",
+    "nom": "Aérodrome_d'Abbeville",
+    "ville": "Abbeville (Somme)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOJ",
+    "nom": "Base aérienne d'Orléans",
+    "ville": "Bricy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOK",
+    "nom": "Aéroport de Vatry",
+    "ville": "Châlons-en-Champagne (Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOL",
+    "nom": "Aéroport de L'Aigle",
+    "ville": "Saint-Michel",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOM",
+    "nom": "Aéroport de Lessay",
+    "ville": "Lessay (Manche)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFON",
+    "nom": "Aéroport de Dreux Vernouillet",
+    "ville": "Dreux (Eure-et-Loir)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOO",
+    "nom": "Aéroport des Sables-d'Olonne",
+    "ville": "Talmont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOP",
+    "nom": "Aéroport Rouen Vallée de Seine",
+    "ville": "Rouen (Seine-Maritime)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOQ",
+    "nom": "Aéroport de Blois",
+    "ville": "Le Breuil",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOR",
+    "nom": "Aéroport de Chartres",
+    "ville": "Champhol",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOS",
+    "nom": "Aéroport de Saint-Valery",
+    "ville": "Vittefleur",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOT",
+    "nom": "Aéroport de Tours Val de Loire",
+    "ville": "Tours (Indre-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOU",
+    "nom": "Aéroport de Cholet Le Pontreau",
+    "ville": "Cholet (Maine-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOV",
+    "nom": "Aéroport de Laval",
+    "ville": "Entrammes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOW",
+    "nom": "Aéroport de Saint-Quentin",
+    "ville": "Roupy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOX",
+    "nom": "Aéroport d'Étampes-Mondésir",
+    "ville": "Étampes (Essonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOY",
+    "nom": "Aéroport du Havre",
+    "ville": "Saint-Romain",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFOZ",
+    "nom": "Aéroport d'Orléans",
+    "ville": "Saint-Denis-de-l'Hôtel",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPA",
+    "nom": "Aéroport de Persan",
+    "ville": "Beaumont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPB",
+    "nom": "Aéroport du Bourget",
+    "ville": "Paris (Seine-Saint-Denis)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPC",
+    "nom": "Base aérienne de Creil",
+    "ville": "Creil (Oise)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPD",
+    "nom": "Aéroport de Bernay",
+    "ville": "Saint-Martin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPE",
+    "nom": "Aéroport de Meaux",
+    "ville": "Esbly",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPF",
+    "nom": "Aérodrome de Beynes",
+    "ville": "Thiverval",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPG",
+    "nom": "Aéroport Paris-Charles-de-Gaulle",
+    "ville": "Paris (Seine-Saint-Denis)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPH",
+    "nom": "Aéroport de Chelles-le-Pin",
+    "ville": "Le Pin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPI",
+    "nom": "Héliport de Paris",
+    "ville": "Issy-les-Moulineaux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPK",
+    "nom": "Aéroport de Coulommiers Voisins",
+    "ville": "Coulommiers (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPL",
+    "nom": "Aéroport de Lognes",
+    "ville": "Émerainville",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPM",
+    "nom": "base aérienne de Melun Villaroche",
+    "ville": "Melun (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPN",
+    "nom": "Aéroport de Toussus-le-Noble",
+    "ville": "Toussus-le-Noble (Yvelines)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPO",
+    "nom": "Aéroport d'Orly",
+    "ville": "Paris (Essonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPP",
+    "nom": "Aérodrome du Plessis-Belleville",
+    "ville": "Le Plessis-Belleville (Oise)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPQ",
+    "nom": "Aéroport de Fontenay-Trésigny",
+    "ville": "Fontenay-Trésigny (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPT",
+    "nom": "Aéroport de Pontoise",
+    "ville": "Cormeilles-en-Vexin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPU",
+    "nom": "Aérodrome de Moret-Épisy",
+    "ville": "Moret-sur-Loing (Seine-et-Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPV",
+    "nom": "base aérienne de Villacoublay Vélizy",
+    "ville": "Vélizy-Villacoublay (Yvelines)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPX",
+    "nom": "Aérodrome de Chavenay",
+    "ville": "Villepreux",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPY",
+    "nom": "base aérienne de Brétigny-sur-Orge",
+    "ville": "Brétigny-sur-Orge (Essonne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFPZ",
+    "nom": "Aéroport de Saint-Cyr-l'École",
+    "ville": "Saint-Cyr-l'École (Yvelines)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQA",
+    "nom": "Aéroport de Reims",
+    "ville": "Prunay",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQB",
+    "nom": "Aéroport de Troyes",
+    "ville": "Barberey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQC",
+    "nom": "Aéroport de Lunéville",
+    "ville": "Croismare",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQD",
+    "nom": "Aéroport d'Arras Roclincourt",
+    "ville": "Arras (Pas-de-Calais)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQE",
+    "nom": "base aérienne d'Étain",
+    "ville": "Rouvres",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQF",
+    "nom": "Aéroport d'Autun Bellevue",
+    "ville": "Autun (Saône-et-Loire)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQG",
+    "nom": "Aéroport de Nevers",
+    "ville": "Fourchambault",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQH",
+    "nom": "Aéroport de Chatillon Sur Seine",
+    "ville": "Châtillon-sur-Seine (Côte-d'Or)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQI",
+    "nom": "base aérienne de Cambrai",
+    "ville": "Épinoy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQJ",
+    "nom": "Aéroport de Maubeuge",
+    "ville": "Élesmes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQK",
+    "nom": "Aéroport de Châlons",
+    "ville": "Écury-sur-Coole",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQL",
+    "nom": "Aéroport de Lens",
+    "ville": "Bénifontaine",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQM",
+    "nom": "Aéroport de Besançon",
+    "ville": "La Vèze",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQN",
+    "nom": "Aéroport de Saint-Omer",
+    "ville": "Wizernes",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQO",
+    "nom": "Aéroport de Lille",
+    "ville": "Marcq-en-Barœul",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQP",
+    "nom": "base aérienne de Phalsbourg",
+    "ville": "Bourscheid",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQQ",
+    "nom": "Aéroport de Lille",
+    "ville": "Lesquin",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQR",
+    "nom": "Aérodrome de Romilly-sur-Seine",
+    "ville": "Romilly-sur-Seine (Aube)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQS",
+    "nom": "Aéroport de Vitry-en-Artois",
+    "ville": "Vitry-en-Artois (Pas-de-Calais)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQT",
+    "nom": "Aéroport de Merville",
+    "ville": "Calonne",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQU",
+    "nom": "Aérodrome de Sarre-Union",
+    "ville": "Sarre-Union (Bas-Rhin)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQV",
+    "nom": "Aéroport de Charleville-Mézières",
+    "ville": "Charleville-Mézières (Ardennes)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQW",
+    "nom": "Aéroport de Vesoul",
+    "ville": "Frotey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQX",
+    "nom": "Aérodrome de Juvancourt",
+    "ville": "Juvancourt (Aube)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQY",
+    "nom": "Aérodrome de Saverne",
+    "ville": "Steinbourg",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFQZ",
+    "nom": "Aérodrome de Dieuze",
+    "ville": "Guéblange",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRA",
+    "nom": "Aérodrome d'Angers",
+    "ville": "Avrillé",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRB",
+    "nom": "Aéroport de Brest Bretagne",
+    "ville": "Brest (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRC",
+    "nom": "Aéroport de Cherbourg",
+    "ville": "Maupertus",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRD",
+    "nom": "Aéroport de Dinard Pleurtuit Saint-Malo",
+    "ville": "Dinard (Ille-et-Vilaine)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRE",
+    "nom": "Aéroport de La Baule-Escoublac",
+    "ville": "La Baule-Escoublac (Loire-Atlantique)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRF",
+    "nom": "Aéroport de Granville-Mont-Saint-Michel",
+    "ville": "Granville (Manche)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRG",
+    "nom": "Aéroport de Deauville",
+    "ville": "Saint-Gatien",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRH",
+    "nom": "Aéroport de Lorient Bretagne Sud",
+    "ville": "Lorient (Morbihan)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRI",
+    "nom": "Aéroport de La Roche-sur-Yon",
+    "ville": "Les Ajoncs",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRJ",
+    "nom": "Base d'aéronautique navale de Landivisiau",
+    "ville": "Landivisiau (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRK",
+    "nom": "Aéroport de Caen",
+    "ville": "Carpiquet",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRL",
+    "nom": "Base d'aéronautique navale de Lanvéoc-Poulmic",
+    "ville": "Lanvéoc (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRM",
+    "nom": "Aéroport Le Mans-Arnage",
+    "ville": "Le Mans (Sarthe)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRN",
+    "nom": "Aéroport de Rennes",
+    "ville": "Saint-Jacques",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRO",
+    "nom": "Aéroport de Lannion",
+    "ville": "Lannion (Côtes-d'Armor)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRP",
+    "nom": "Aéroport de Ploërmel",
+    "ville": "Loyat",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRQ",
+    "nom": "Aéroport de Quimper Cornouaille",
+    "ville": "Quimper (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRS",
+    "nom": "Aéroport Nantes Atlantique",
+    "ville": "Nantes (Loire-Atlantique)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRT",
+    "nom": "Aéroport de Saint-Brieuc Armor",
+    "ville": "Saint-Brieuc (Côtes-d'Armor)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRU",
+    "nom": "Aéroport de Morlaix Ploujean",
+    "ville": "Morlaix (Finistère)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRV",
+    "nom": "Aéroport de Vannes",
+    "ville": "Meucon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRW",
+    "nom": "Aérodrome d'Avranches",
+    "ville": "Le Val-Saint-Père",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFRZ",
+    "nom": "Aéroport de Saint-Nazaire",
+    "ville": "Montoir",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSA",
+    "nom": "Aéroport de Besançon",
+    "ville": "Thise",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSB",
+    "nom": "Aéroport international Basel-Mulhouse-Freiburg",
+    "ville": "Bâle(Suisse) ( )",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSC",
+    "nom": "base aérienne de Colmar",
+    "ville": "Meyenheim",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSD",
+    "nom": "Aéroport de Dijon Bourgogne",
+    "ville": "Longvic",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSE",
+    "nom": "Aérodrome Epinal-Dogneville",
+    "ville": "Épinal (Vosges)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSF",
+    "nom": "Base aérienne de Metz Frescaty",
+    "ville": "Metz (Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSG",
+    "nom": "Aéroport d'Épinal-Mirecourt",
+    "ville": "Épinal (Vosges)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSH",
+    "nom": "Aéroport d'Haguenau",
+    "ville": "Haguenau (Bas-Rhin)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSI",
+    "nom": "base aérienne de Saint-Dizier",
+    "ville": "Robinson",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSJ",
+    "nom": "Aéroport de Sedan",
+    "ville": "Douzy",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSK",
+    "nom": "Aéroport de Vitry-le-François",
+    "ville": "Vauclerc",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSL",
+    "nom": "Aéroport de Brive-Vallée de la Dordogne",
+    "ville": "Brive-la-Gaillarde (Corrèze)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSM",
+    "nom": "Aéroport de Montbéliard",
+    "ville": "Courcelles",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSN",
+    "nom": "Aéroport de Nancy",
+    "ville": "Essey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSO",
+    "nom": "base aérienne de Nancy",
+    "ville": "Ochey",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSP",
+    "nom": "Aéroport de Pontarlier",
+    "ville": "Pontarlier (Doubs)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSQ",
+    "nom": "Aérodrome de Belfort",
+    "ville": "Fontaine",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSR",
+    "nom": "Aéroport de Reims Champagne",
+    "ville": "Reims (Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFST",
+    "nom": "Aéroport de Strasbourg Entzheim",
+    "ville": "Strasbourg (Bas-Rhin)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSU",
+    "nom": "Aéroport de Langres",
+    "ville": "Rolampont",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSV",
+    "nom": "Aérodrome de Pont-Saint-Vincent",
+    "ville": "Pont-Saint-Vincent (Meurthe-et-Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSW",
+    "nom": "Aéroport d'Épernay",
+    "ville": "Plivot",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSX",
+    "nom": "base aérienne de Luxeuil",
+    "ville": "Saint-Sauveur",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFSZ",
+    "nom": "Aérodrome de Vittel",
+    "ville": "Champ de courses",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTB",
+    "nom": "Hydroaérodrome de Marignane",
+    "ville": "Berre",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTF",
+    "nom": "Aéroport de Cuers",
+    "ville": "Pierrefeu",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTH",
+    "nom": "Aéroport de Toulon",
+    "ville": "Hyères",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTM",
+    "nom": "Aérodrome de Serres",
+    "ville": "La Bâtie-Montsaléon",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTN",
+    "nom": "Aérodrome de La Grand'Combe",
+    "ville": "La Grand-Combe (Gard)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTP",
+    "nom": "Aérodrome de Puimoisson",
+    "ville": "Puimoisson (Alpes-de-Haute-Provence)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTQ",
+    "nom": "Aérodrome de Châteaubriant",
+    "ville": "Pouancé",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTW",
+    "nom": "Aéroport de Nîmes",
+    "ville": "Garons",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFTZ",
+    "nom": "Aéroport de La Môle",
+    "ville": "Saint-Tropez",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXA",
+    "nom": "Aéroport d'Ambérieu",
+    "ville": "Ambérieu-en-Bugey (Ain)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXB",
+    "nom": "Aéroport de Saintes",
+    "ville": "Thénac",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXG",
+    "nom": "base aérienne de Bitche",
+    "ville": "Bitche (Moselle)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXH",
+    "nom": "base aérienne du Valdahon",
+    "ville": "Valdahon (Doubs)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXI",
+    "nom": "Aérodrome de Saint-Christol",
+    "ville": "Saint-Christol (Vaucluse)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXM",
+    "nom": "Aérodrome de Mourmelon",
+    "ville": "Mourmelon-le-Grand (Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXQ",
+    "nom": "base aérienne de Coëtquidan",
+    "ville": "Guer (Morbihan)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFXU",
+    "nom": "Aéroport des Mureaux",
+    "ville": "Les Mureaux (Yvelines)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYD",
+    "nom": "Aéroport de Damblain",
+    "ville": "Damblain (Vosges)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYG",
+    "nom": "Aéroport de Cambrai",
+    "ville": "Niergnies",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYH",
+    "nom": "Aéroport de Broyes-lès-Pesmes",
+    "ville": "Broye-Aubigney-Montseugny (Haute-Saône)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYM",
+    "nom": "Aéroport de Marigny Le Grand",
+    "ville": "Marigny (Marne)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYR",
+    "nom": "Aéroport de Romorantin",
+    "ville": "Pruniers",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYS",
+    "nom": "Aérodrome de Sainte-Léocadie",
+    "ville": "Sainte-Léocadie (Pyrénées-Orientales)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFYT",
+    "nom": "base aérienne de Saint-Simon",
+    "ville": "Clastres",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFVM",
+    "nom": "Aéroport de Miquelon",
+    "ville": "Miquelon (Saint-Pierre-et-Miquelon)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LFVP",
+    "nom": "Aéroport de Saint-Pierre",
+    "ville": "Saint-Pierre (Saint-Pierre-et-Miquelon)",
+    "Pays": "LF"
+  },
+  {
+    "OACI": "LIPZ",
+    "nom": "Marco Polo",
+    "ville": "",
+    "Pays": "LI"
+  },
+  {
+    "OACI": "LIRU",
+    "nom": "Urbe",
+    "ville": "",
+    "Pays": "LI"
+  },
+  {
+    "OACI": "LTBJ",
+    "nom": "2 pistes",
+    "ville": "",
+    "Pays": "LT"
+  },
+  {
+    "OACI": "MDAB",
+    "nom": "Samaná (Samaná)",
+    "ville": "",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDBH",
+    "nom": "3 m alt",
+    "ville": "1 piste",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDCR",
+    "nom": "Pedernales (Pedernales)",
+    "ville": "",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDCZ",
+    "nom": "Aéroport 14 de Junio de Constanza",
+    "ville": "Constanza (La Vega)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDDJ",
+    "nom": "Aéroport de Dajabón",
+    "ville": "Dajabón (Dajabón)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDCY",
+    "nom": "Aéroport international El Catey (Profesor Juan Bosch)",
+    "ville": "Sánchez (Samaná)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDHE",
+    "nom": "Aéroport international de Herrera",
+    "ville": "Saint-Domingue (Distrito Nacional)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDJB",
+    "nom": "Aéroport international La Isabela (Dr. Joaquín Balaguer Ricardo))",
+    "ville": "Saint-Domingue (Santo Domingo)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDLR",
+    "nom": "Aéroport international Casa de Campo",
+    "ville": "La Romana (La Romana)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDMC",
+    "nom": "Aérodrome Osvaldo Virgil",
+    "ville": "Monte Cristi (Monte Cristi)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDPC",
+    "nom": "Aéroport international Punta Cana",
+    "ville": "Higüey (La Altagracia)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDPO",
+    "nom": "Aéroport d'El Portillo",
+    "ville": "Las Terrenas (Samaná)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDPP",
+    "nom": "Aéroport international Gregorio-Luperón",
+    "ville": "Puerto Plata (Puerto Plata)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDSD",
+    "nom": "Aéroport international Las Américas (Dr. José Francisco Peña Gómez)",
+    "ville": "Punta Caucedo (Santo Domingo)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDSI",
+    "nom": "Base aérienne de San Isidro",
+    "ville": "San Isidro (Santo Domingo)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDST",
+    "nom": "Aéroport international du Cibao",
+    "ville": "Santiago (Santiago)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "MDSP",
+    "nom": "Aéroport Cueva de las Maravillas",
+    "ville": "San Pedro de Macorís (San Pedro de Macorís)",
+    "Pays": "MD"
+  },
+  {
+    "OACI": "NGAB",
+    "nom": "Aéroport d'Abaiang",
+    "ville": "Abaiang",
+    "Pays": "Kiribati"
+  },
+  {
+    "OACI": "NGUK",
+    "nom": "Aéroport d'Aranuka",
+    "ville": "Buariki",
+    "Pays": "Kiribati"
+  },
+  {
+    "OACI": "NLWF",
+    "nom": "Aérodrome de Pointe Vele",
+    "ville": "Futuna (986)",
+    "Pays": "Wallis-et-Futuna"
+  },
+  {
+    "OACI": "NLWW",
+    "nom": "Aérodrome de Hihifo",
+    "ville": "Wallis (986)",
+    "Pays": "Wallis-et-Futuna"
+  },
+  {
+    "OACI": "NTAA",
+    "nom": "Aéroport international Tahiti Faa'a",
+    "ville": "Papeete",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTB",
+    "nom": "1 piste",
+    "ville": "",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTH",
+    "nom": "Aérodrome de Fare",
+    "ville": "Huahiné",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTP",
+    "nom": "Aérodrome de Maupiti",
+    "ville": "Maupiti",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTM",
+    "nom": "Aéroport de Moorea Temae",
+    "ville": "Moorea",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTR",
+    "nom": "Aéroport de Raiatea",
+    "ville": "Île Raiatea",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTE",
+    "nom": "Aérodrome de Tetiaroa",
+    "ville": "Atoll Tetiaroa",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTHE",
+    "nom": "Aérodrome d'Ahe",
+    "ville": "Atoll de Ahe",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGA",
+    "nom": "Aérodrome d'Anaa",
+    "ville": "Île Anaa",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGD",
+    "nom": "Aérodrome d'Apataki",
+    "ville": "Apataki",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKK",
+    "nom": "Aérodrome d'Aratika Nord",
+    "ville": "Aratika",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGR",
+    "nom": "Aérodrome d'Aratika Perles",
+    "ville": "Aratika",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGU",
+    "nom": "Aérodrome d'Arutua",
+    "ville": "Arutua",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKF",
+    "nom": "Aérodrome de Faaite",
+    "ville": "Île de Faaite",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKH",
+    "nom": "Aérodrome de Fakahina",
+    "ville": "Fakahina",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGF",
+    "nom": "Aérodrome de Fakarava",
+    "ville": "Fakarava",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGB",
+    "nom": "Aérodrome de Fangatau",
+    "ville": "Fangatau",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTO",
+    "nom": "Aérodrome de Hao",
+    "ville": "Hao",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGH",
+    "nom": "Aérodrome de Hikueru",
+    "ville": "Hikueru",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKT",
+    "nom": "Aérodrome de Katiu",
+    "ville": "Katiu",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKA",
+    "nom": "Aérodrome de Kauehi",
+    "ville": "Kauehi",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGK",
+    "nom": "Aérodrome de Kaukura",
+    "ville": "Kaukura",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGM",
+    "nom": "Aérodrome de Makemo",
+    "ville": "Makemo",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGI",
+    "nom": "Aérodrome de Manihi",
+    "ville": "Manihi",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGV",
+    "nom": "Aérodrome de Mataiva",
+    "ville": "Mataiva",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGN",
+    "nom": "Aérodrome de Napuka",
+    "ville": "Île Napuka",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKN",
+    "nom": "Aérodrome de Niau",
+    "ville": "Niau",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGW",
+    "nom": "Aérodrome de Nukutavake",
+    "ville": "Île Nukutavake",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGP",
+    "nom": "Puka Puka",
+    "ville": "Atoll Puka Puka",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGQ",
+    "nom": "Aérodrome de Pukarua",
+    "ville": "Pukarua",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTTG",
+    "nom": "Rangiroa",
+    "ville": "Atoll de Rangiroa",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGE",
+    "nom": "Aérodrome de Reao",
+    "ville": "Reao",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGT",
+    "nom": "Aérodrome de Takapoto",
+    "ville": "Takapoto",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKR",
+    "nom": "Aérodrome de Takaroa",
+    "ville": "Takaroa",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTKM",
+    "nom": "Aérodrome de Takume",
+    "ville": "Atoll de Takume",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGO",
+    "nom": "Aérodrome de Tatakoto",
+    "ville": "Île Tatakoto",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGC",
+    "nom": "Aérodrome de Tikehau",
+    "ville": "Tikehau",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGY",
+    "nom": "Aérodrome de Tureia",
+    "ville": "Tureia",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTUV",
+    "nom": "Aérodrome de Vahitahi",
+    "ville": "Vahitahi",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTMD",
+    "nom": "Aérodrome de Nuku Hiva",
+    "ville": "Nuku Hiva",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTMN",
+    "nom": "Aérodrome de Hiva Oa",
+    "ville": "Hiva Oa",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTMU",
+    "nom": "Aérodrome de Ua Huka",
+    "ville": "Ua Huka",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTMP",
+    "nom": "Aérodrome de Ua Pou",
+    "ville": "Ua Pou",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTAV",
+    "nom": "Aérodrome de Raivavae",
+    "ville": "Raivavae",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTAM",
+    "nom": "Aérodrome de Rimatara",
+    "ville": "Rimatara",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTAR",
+    "nom": "Aérodrome de Rurutu",
+    "ville": "Rurutu",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTAT",
+    "nom": "Aérodrome de Tubuai",
+    "ville": "Île Tubuai",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NTGJ",
+    "nom": "Aérodrome de Totegegie",
+    "ville": "Totegegie",
+    "Pays": "Polynésie française"
+  },
+  {
+    "OACI": "NWWA",
+    "nom": "Aérodrome de Tiga",
+    "ville": "Tiga (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWB",
+    "nom": "Aérodrome de Poé",
+    "ville": "Bourail (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWC",
+    "nom": "Aérodrome de Waala",
+    "ville": "Île Art (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWD",
+    "nom": "Aérodrome de Koné",
+    "ville": "Koné (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWE",
+    "nom": "Aérodrome de Moué",
+    "ville": "Île des Pins (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWK",
+    "nom": "Aérodrome de Koumac",
+    "ville": "Koumac (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWL",
+    "nom": "Aérodrome de Lifou Wanaham",
+    "ville": "Lifou (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWM",
+    "nom": "Aérodrome de Nouméa Magenta",
+    "ville": "Nouméa (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWP",
+    "nom": "Aérodrome de Poum Malabou",
+    "ville": "Poum (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWR",
+    "nom": "Aérodrome de Maré La Roche",
+    "ville": "Maré (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWT",
+    "nom": "Aérodrome de La Foa Oua Tom",
+    "ville": "La Foa (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWU",
+    "nom": "Aérodrome de Touho",
+    "ville": "Touho (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWV",
+    "nom": "Aérodrome de Ouvéa Ouloup",
+    "ville": "Ouvéa (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWW",
+    "nom": "Aéroport international Nouméa La Tontouta",
+    "ville": "Nouméa (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "NWWX",
+    "nom": "Aérodrome de Canala",
+    "ville": "Canala (988)",
+    "Pays": "Nouvelle-Calédonie"
+  },
+  {
+    "OACI": "OLBA",
+    "nom": "Rafic Hariri",
+    "ville": "",
+    "Pays": "OL"
+  },
+  {
+    "OACI": "POLI",
+    "nom": "Site radar à longue portée d'Oliktok (fermé)",
+    "ville": "Oliktok Point, Alaska",
+    "Pays": "PO"
+  },
+  {
+    "OACI": "SBGL",
+    "nom": "Galeão",
+    "ville": "",
+    "Pays": "SB"
+  },
+  {
+    "OACI": "SBGR",
+    "nom": "Guarulhos",
+    "ville": "",
+    "Pays": "SB"
+  },
+  {
+    "OACI": "TAPA",
+    "nom": "Aéroport international V.C. Bird",
+    "ville": "Saint John's (Antigua)",
+    "Pays": "TA"
+  },
+  {
+    "OACI": "TAPH",
+    "nom": "Aéroport de Codrington",
+    "ville": "Codrington (Barbuda)",
+    "Pays": "TA"
+  },
+  {
+    "OACI": "TBPB",
+    "nom": "Aéroport international Grantley-Adams",
+    "ville": "Bridgetown",
+    "Pays": "TB"
+  },
+  {
+    "OACI": "TDCF",
+    "nom": "Aéroport de Canefield",
+    "ville": "Roseau",
+    "Pays": "TD"
+  },
+  {
+    "OACI": "TDPD",
+    "nom": "Aéroport Melville Hall",
+    "ville": "Marigot",
+    "Pays": "TD"
+  },
+  {
+    "OACI": "TFFA",
+    "nom": "Aérodrome de La Désirade-Grande Anse",
+    "ville": "La Désirade (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFB",
+    "nom": "Aérodrome de Basse Terre",
+    "ville": "Baillif",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFC",
+    "nom": "Aérodrome de Saint-François",
+    "ville": "Saint-François (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFG",
+    "nom": "Aéroport de Grand-Case Espérance",
+    "ville": "Saint-Martin (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFJ",
+    "nom": "Aéroport de Saint-Barthélémy-Rémy-de-Haenen",
+    "ville": "Saint-Barthélemy (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFM",
+    "nom": "Aérodrome de Grand-Bourg",
+    "ville": "Marie-Galante (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFR",
+    "nom": "Aéroport Guadeloupe",
+    "ville": "Pôle Caraïbes",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFS",
+    "nom": "Aérodrome Les Saintes-Terre-de-Haut",
+    "ville": "Les Saintes (971)",
+    "Pays": "Guadeloupe"
+  },
+  {
+    "OACI": "TFFF",
+    "nom": "Aéroport international Martinique Aimé Césaire",
+    "ville": "Fort-de-France (972)",
+    "Pays": "Martinique"
+  },
+  {
+    "OACI": "TGPY",
+    "nom": "Aéroport international de Point Salines",
+    "ville": "Saint-Georges",
+    "Pays": "TG"
+  },
+  {
+    "OACI": "TIST",
+    "nom": "Saint-Thomas",
+    "ville": "",
+    "Pays": "TI"
+  },
+  {
+    "OACI": "TISX",
+    "nom": "Sainte-Croix",
+    "ville": "",
+    "Pays": "TI"
+  },
+  {
+    "OACI": "TKPK",
+    "nom": "Saint-Christophe",
+    "ville": "",
+    "Pays": "TK"
+  },
+  {
+    "OACI": "WIMM",
+    "nom": "35 m alt",
+    "ville": "1 piste",
+    "Pays": "WI"
+  },
+  {
+    "OACI": "WMKI",
+    "nom": "Ipoh",
+    "ville": "",
+    "Pays": "WM"
+  },
+  {
+    "OACI": "WMKJ",
+    "nom": "Johor Bahru",
+    "ville": "",
+    "Pays": "WM"
+  },
+  {
+    "OACI": "WMSA",
+    "nom": "Subang Jaya",
+    "ville": "",
+    "Pays": "WM"
+  }
+]
