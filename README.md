@@ -87,6 +87,17 @@ flutter build web
 
 Le déploiement fonctionnera sans point d'entrée Python sur Vercel, car la configuration force l'usage du builder statique.
 
+Déploiement sur Render
+
+Ce dépôt est également adapté à Render en tant que site statique. J’ai ajouté un fichier `render.yaml` qui configure un service statique avec :
+
+- `buildCommand: flutter build web`
+- `publishPath: build/web`
+
+Sur Render, choisissez un service de type `Static Site` ou laissez `render.yaml` gérer la configuration. Vous pouvez déployer depuis la branche `main`.
+
+Si vous préférez un service web Python sur Render, le dossier `main.py` et `pyproject.toml` sont déjà présents, mais pour ce projet la meilleure option est un site statique Flutter.
+
 
 CI / GitHub Actions
 

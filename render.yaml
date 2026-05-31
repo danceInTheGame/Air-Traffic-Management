@@ -1,0 +1,7 @@
+services:
+  - type: static
+    name: atc-dashboard-static
+    env: static
+    branch: main
+    buildCommand: flutter build web
+    publishPath: build/web
